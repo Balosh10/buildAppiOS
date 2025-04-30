@@ -26,3 +26,5 @@ if [ -d "$APP_PATH" ]; then
 else
   echo "❌ Error: No se encontró el .app en $APP_PATH"
 fi
+
+#ios-deploy --id <UDID> --bundle build/Build/Products/Debug-iphoneos/TuApp.app --justlaunch --debug
