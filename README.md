@@ -8,6 +8,7 @@ touch build_and_deploy_workspace.sh
 
 4. Edita el archivo del script:
 Puedes usar cualquier editor de texto en la terminal, como nano o vi. Aquí te muestro cómo con nano:
+
 nano build_and_deploy_workspace.sh
 
 ✅ Cómo usarlo:
