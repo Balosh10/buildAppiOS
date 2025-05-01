@@ -1,396 +1,32 @@
-Command line invocation:
-    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace PrincipalAforeApp.xcworkspace -scheme PrincipalAforeAppStaging -configuration Debug -sdk iphoneos BUILD_DIR=./build -verbose
-
-Build settings from command line:
-    BUILD_DIR = ./build
-    SDKROOT = iphoneos18.4
-
-2025-04-30 18:26:19.640 xcodebuild[20642:241062]  DVTDeviceOperation: Encountered a build number "" that is incompatible with DVTBuildVersion.
-2025-04-30 18:26:19.768 xcodebuild[20642:241035] [MT] DVTDeviceOperation: Encountered a build number "" that is incompatible with DVTBuildVersion.
-Resolve Package Graph
-
-
-Resolved source packages:
-  SwiftProtobuf: https://github.com/apple/swift-protobuf.git @ 1.28.2
-  nanopb: https://github.com/firebase/nanopb.git @ 2.30910.0
-  GoogleAppMeasurement: https://github.com/google/GoogleAppMeasurement.git @ 11.4.0
-  GoogleUtilities: https://github.com/google/GoogleUtilities.git @ 8.0.2
-  Swift-ServiceChat: https://github.com/Salesforce-Async-Messaging/Swift-Package-ServiceChat @ 238.0.0
-  InteropForGoogle: https://github.com/google/interop-ios-for-google-sdks.git @ 100.0.0
-  abseil: https://github.com/google/abseil-cpp-binary.git @ 1.2024011602.0
-  swift-algorithms: https://github.com/apple/swift-algorithms @ 1.2.0
-  AppCheck: https://github.com/google/app-check.git @ 11.2.0
-  Firebase: https://github.com/firebase/firebase-ios-sdk.git @ 11.6.0
-  Promises: https://github.com/google/promises.git @ 2.4.0
-  leveldb: https://github.com/firebase/leveldb.git @ 1.22.5
-  GoogleDataTransport: https://github.com/google/GoogleDataTransport.git @ 10.1.0
-  gRPC: https://github.com/google/grpc-binary.git @ 1.65.1
-  swift-numerics: https://github.com/apple/swift-numerics.git @ 1.0.2
-  Charts: https://github.com/danielgindi/Charts.git @ 4.1.0
-  GTMSessionFetcher: https://github.com/google/gtm-session-fetcher.git @ 4.1.0
-
---- xcodebuild: WARNING: Using the first of multiple matching destinations:
-{ platform:iOS, id:dvtdevice-DVTiPhonePlaceholder-iphoneos:placeholder, name:Any iOS Device }
-{ platform:iOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-iphonesimulator:placeholder, name:Any iOS Simulator Device }
-{ platform:iOS Simulator, arch:arm64, id:756A43EA-9DEE-4CA5-B3EB-21FF7BB5DCFC, OS:18.5, name:iPhone 16 }
-{ platform:iOS Simulator, arch:x86_64, id:756A43EA-9DEE-4CA5-B3EB-21FF7BB5DCFC, OS:18.5, name:iPhone 16 }
-ComputePackagePrebuildTargetDependencyGraph
-
-Prepare packages
-
-CreateBuildRequest
-
-SendProjectDescription
-
-CreateBuildOperation
-
-ComputeTargetDependencyGraph
-note: Building targets in dependency order
-note: Target dependency graph (81 targets)
-    Target 'PrincipalAforeApp' in project 'PrincipalAforeApp'
-        ➜ Explicit dependency on target 'Extension' in project 'PrincipalAforeApp'
-        ➜ Implicit dependency on target 'Pods-PrincipalAforeApp-PrincipalAforeApp' in project 'Pods' via file 'Pods_PrincipalAforeApp_PrincipalAforeApp.framework' in build phase 'Link Binary'
-        ➜ Implicit dependency on target 'Alamofire' in project 'Pods' via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'AlamofireImage' in project 'Pods' via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'AlamofireObjectMapper' in project 'Pods' via options '-framework AlamofireObjectMapper' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'Cache' in project 'Pods' via options '-framework Cache' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'FSCalendar' in project 'Pods' via options '-framework FSCalendar' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'IQKeyboardManagerSwift' in project 'Pods' via options '-framework IQKeyboardManagerSwift' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'KeychainSwift' in project 'Pods' via options '-framework KeychainSwift' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'lottie-ios' in project 'Pods' via options '-framework Lottie' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'ObjectMapper' in project 'Pods' via options '-framework ObjectMapper' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'Realm' in project 'Pods' via options '-framework Realm' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'RealmSwift' in project 'Pods' via options '-framework RealmSwift' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'SideMenu' in project 'Pods' via options '-framework SideMenu' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'TouchDraw' in project 'Pods' via options '-framework TouchDraw' in build setting 'OTHER_LDFLAGS'
-        ➜ Implicit dependency on target 'Zip' in project 'Pods' via options '-framework Zip' in build setting 'OTHER_LDFLAGS'
-        ➜ Explicit dependency on target 'FirebaseAnalytics' in project 'Firebase'
-        ➜ Explicit dependency on target 'Swift-ServiceChat' in project 'Swift-ServiceChat'
-        ➜ Explicit dependency on target 'FirebaseDatabase' in project 'Firebase'
-        ➜ Explicit dependency on target 'Charts' in project 'Charts'
-    Target 'Charts' in project 'Charts'
-        ➜ Explicit dependency on target 'Charts' in project 'Charts'
-        ➜ Explicit dependency on target 'Algorithms' in project 'swift-algorithms'
-    Target 'Charts' in project 'Charts'
-        ➜ Explicit dependency on target 'Algorithms' in project 'swift-algorithms'
-    Target 'Algorithms' in project 'swift-algorithms'
-        ➜ Explicit dependency on target 'Algorithms' in project 'swift-algorithms'
-        ➜ Explicit dependency on target 'RealModule' in project 'swift-numerics'
-    Target 'Algorithms' in project 'swift-algorithms'
-        ➜ Explicit dependency on target 'RealModule' in project 'swift-numerics'
-    Target 'RealModule' in project 'swift-numerics'
-        ➜ Explicit dependency on target 'RealModule' in project 'swift-numerics'
-        ➜ Explicit dependency on target '_NumericsShims' in project 'swift-numerics'
-    Target 'RealModule' in project 'swift-numerics'
-        ➜ Explicit dependency on target '_NumericsShims' in project 'swift-numerics'
-    Target '_NumericsShims' in project 'swift-numerics' (no dependencies)
-    Target 'FirebaseDatabase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseDatabase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseAppCheckInterop' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseDatabaseInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseSharedSwift' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULLogger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'leveldb' in project 'leveldb'
-        ➜ Explicit dependency on target 'GULUserDefaults' in project 'GoogleUtilities'
-    Target 'FirebaseDatabase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseAppCheckInterop' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseDatabaseInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseSharedSwift' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULLogger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'leveldb' in project 'leveldb'
-        ➜ Explicit dependency on target 'GULUserDefaults' in project 'GoogleUtilities'
-    Target 'FirebaseSharedSwift' in project 'Firebase' (no dependencies)
-    Target 'FirebaseDatabaseInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseAppCheckInterop' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULLogger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'leveldb' in project 'leveldb'
-        ➜ Explicit dependency on target 'GULUserDefaults' in project 'GoogleUtilities'
-    Target 'leveldb' in project 'leveldb'
-        ➜ Explicit dependency on target 'leveldb' in project 'leveldb'
-        ➜ Explicit dependency on target 'leveldb_leveldb' in project 'leveldb'
-    Target 'leveldb' in project 'leveldb'
-        ➜ Explicit dependency on target 'leveldb_leveldb' in project 'leveldb'
-    Target 'leveldb_leveldb' in project 'leveldb' (no dependencies)
-    Target 'FirebaseAppCheckInterop' in project 'Firebase' (no dependencies)
-    Target 'Swift-ServiceChat' in project 'Swift-ServiceChat'
-        ➜ Explicit dependency on target 'ServiceCoreWrapper' in project 'Swift-ServiceChat'
-        ➜ Explicit dependency on target 'ServiceChatWrapper' in project 'Swift-ServiceChat'
-    Target 'ServiceChatWrapper' in project 'Swift-ServiceChat' (no dependencies)
-    Target 'ServiceCoreWrapper' in project 'Swift-ServiceChat' (no dependencies)
-    Target 'FirebaseAnalytics' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseAnalyticsTarget' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseInstallations' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseAnalyticsWrapper' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULLogger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'FBLPromises' in project 'Promises'
-        ➜ Explicit dependency on target 'GULUserDefaults' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleAppMeasurement' in project 'GoogleAppMeasurement'
-        ➜ Explicit dependency on target 'GULAppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULMethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULNetwork' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'nanopb' in project 'nanopb'
-    Target 'FirebaseAnalyticsTarget' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseInstallations' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseAnalyticsWrapper' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULLogger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'FBLPromises' in project 'Promises'
-        ➜ Explicit dependency on target 'GULUserDefaults' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleAppMeasurement' in project 'GoogleAppMeasurement'
-        ➜ Explicit dependency on target 'GULAppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULMethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULNetwork' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'nanopb' in project 'nanopb'
-    Target 'FirebaseAnalyticsWrapper' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseInstallations' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULLogger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'FBLPromises' in project 'Promises'
-        ➜ Explicit dependency on target 'GULUserDefaults' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleAppMeasurement' in project 'GoogleAppMeasurement'
-        ➜ Explicit dependency on target 'GULAppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULMethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULNetwork' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'nanopb' in project 'nanopb'
-    Target 'GoogleAppMeasurement' in project 'GoogleAppMeasurement'
-        ➜ Explicit dependency on target 'GoogleAppMeasurementTarget' in project 'GoogleAppMeasurement'
-        ➜ Explicit dependency on target 'GULAppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULMethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULNetwork' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'nanopb' in project 'nanopb'
-    Target 'GoogleAppMeasurementTarget' in project 'GoogleAppMeasurement'
-        ➜ Explicit dependency on target 'GULAppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULMethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULNetwork' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'nanopb' in project 'nanopb'
-    Target 'nanopb' in project 'nanopb'
-        ➜ Explicit dependency on target 'nanopb' in project 'nanopb'
-        ➜ Explicit dependency on target 'nanopb_nanopb' in project 'nanopb'
-    Target 'nanopb' in project 'nanopb'
-        ➜ Explicit dependency on target 'nanopb_nanopb' in project 'nanopb'
-    Target 'nanopb_nanopb' in project 'nanopb' (no dependencies)
-    Target 'GULNetwork' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Network' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-Network' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-NSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Reachability' in project 'GoogleUtilities'
-    Target 'GULMethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-MethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-MethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-    Target 'GoogleUtilities-MethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-MethodSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-    Target 'GoogleUtilities_GoogleUtilities-MethodSwizzler' in project 'GoogleUtilities' (no dependencies)
-    Target 'GULAppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-AppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-AppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-NSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Reachability' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Network' in project 'GoogleUtilities'
-    Target 'GoogleUtilities-AppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-AppDelegateSwizzler' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-NSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Reachability' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Network' in project 'GoogleUtilities'
-    Target 'GoogleUtilities-Network' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-Network' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-NSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Reachability' in project 'GoogleUtilities'
-    Target 'GoogleUtilities_GoogleUtilities-Network' in project 'GoogleUtilities' (no dependencies)
-    Target 'GoogleUtilities-Reachability' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-Reachability' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-    Target 'GoogleUtilities_GoogleUtilities-Reachability' in project 'GoogleUtilities' (no dependencies)
-    Target 'GoogleUtilities_GoogleUtilities-AppDelegateSwizzler' in project 'GoogleUtilities' (no dependencies)
-    Target 'FirebaseInstallations' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase_FirebaseInstallations' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULLogger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'FBLPromises' in project 'Promises'
-        ➜ Explicit dependency on target 'GULUserDefaults' in project 'GoogleUtilities'
-    Target 'GULUserDefaults' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-UserDefaults' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-UserDefaults' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-    Target 'GoogleUtilities-UserDefaults' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-UserDefaults' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-    Target 'GoogleUtilities_GoogleUtilities-UserDefaults' in project 'GoogleUtilities' (no dependencies)
-    Target 'FBLPromises' in project 'Promises'
-        ➜ Explicit dependency on target 'FBLPromises' in project 'Promises'
-        ➜ Explicit dependency on target 'Promises_FBLPromises' in project 'Promises'
-    Target 'FBLPromises' in project 'Promises'
-        ➜ Explicit dependency on target 'Promises_FBLPromises' in project 'Promises'
-    Target 'Promises_FBLPromises' in project 'Promises' (no dependencies)
-    Target 'Firebase_FirebaseInstallations' in project 'Firebase' (no dependencies)
-    Target 'FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase_FirebaseCore' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase' in project 'Firebase'
-        ➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GULLogger' in project 'GoogleUtilities'
-    Target 'GULLogger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-Logger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-    Target 'GoogleUtilities-Logger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-Logger' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-    Target 'GoogleUtilities_GoogleUtilities-Logger' in project 'GoogleUtilities' (no dependencies)
-    Target 'GULEnvironment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-    Target 'GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-Environment' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'third-party-IsAppEncrypted' in project 'GoogleUtilities'
-    Target 'third-party-IsAppEncrypted' in project 'GoogleUtilities' (no dependencies)
-    Target 'GoogleUtilities_GoogleUtilities-Environment' in project 'GoogleUtilities' (no dependencies)
-    Target 'Firebase_FirebaseCore' in project 'Firebase' (no dependencies)
-    Target 'FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'Firebase_FirebaseCoreInternal' in project 'Firebase'
-        ➜ Explicit dependency on target 'GULNSData' in project 'GoogleUtilities'
-    Target 'GULNSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities-NSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-NSData' in project 'GoogleUtilities'
-    Target 'GoogleUtilities-NSData' in project 'GoogleUtilities'
-        ➜ Explicit dependency on target 'GoogleUtilities_GoogleUtilities-NSData' in project 'GoogleUtilities'
-    Target 'GoogleUtilities_GoogleUtilities-NSData' in project 'GoogleUtilities' (no dependencies)
-    Target 'Firebase_FirebaseCoreInternal' in project 'Firebase' (no dependencies)
-    Target 'Firebase' in project 'Firebase' (no dependencies)
-    Target 'Pods-PrincipalAforeApp-PrincipalAforeApp' in project 'Pods'
-        ➜ Explicit dependency on target 'Alamofire' in project 'Pods'
-        ➜ Explicit dependency on target 'AlamofireImage' in project 'Pods'
-        ➜ Explicit dependency on target 'AlamofireObjectMapper' in project 'Pods'
-        ➜ Explicit dependency on target 'AppsFlyerFramework' in project 'Pods'
-        ➜ Explicit dependency on target 'Cache' in project 'Pods'
-        ➜ Explicit dependency on target 'FSCalendar' in project 'Pods'
-        ➜ Explicit dependency on target 'IQKeyboardManagerSwift' in project 'Pods'
-        ➜ Explicit dependency on target 'Identy' in project 'Pods'
-        ➜ Explicit dependency on target 'KeychainSwift' in project 'Pods'
-        ➜ Explicit dependency on target 'ObjectMapper' in project 'Pods'
-        ➜ Explicit dependency on target 'Realm' in project 'Pods'
-        ➜ Explicit dependency on target 'RealmSwift' in project 'Pods'
-        ➜ Explicit dependency on target 'SideMenu' in project 'Pods'
-        ➜ Explicit dependency on target 'TouchDraw' in project 'Pods'
-        ➜ Explicit dependency on target 'Zip' in project 'Pods'
-        ➜ Explicit dependency on target 'lottie-ios' in project 'Pods'
-    Target 'lottie-ios' in project 'Pods' (no dependencies)
-    Target 'Zip' in project 'Pods' (no dependencies)
-    Target 'TouchDraw' in project 'Pods' (no dependencies)
-    Target 'SideMenu' in project 'Pods' (no dependencies)
-    Target 'RealmSwift' in project 'Pods'
-        ➜ Explicit dependency on target 'Realm' in project 'Pods'
-        ➜ Explicit dependency on target 'RealmSwift-realm_swift_privacy' in project 'Pods'
-    Target 'RealmSwift-realm_swift_privacy' in project 'Pods' (no dependencies)
-    Target 'Realm' in project 'Pods'
-        ➜ Explicit dependency on target 'Realm-realm_objc_privacy' in project 'Pods'
-    Target 'Realm-realm_objc_privacy' in project 'Pods' (no dependencies)
-    Target 'KeychainSwift' in project 'Pods' (no dependencies)
-    Target 'Identy' in project 'Pods' (no dependencies)
-    Target 'IQKeyboardManagerSwift' in project 'Pods' (no dependencies)
-    Target 'FSCalendar' in project 'Pods' (no dependencies)
-    Target 'Cache' in project 'Pods' (no dependencies)
-    Target 'AppsFlyerFramework' in project 'Pods' (no dependencies)
-    Target 'AlamofireObjectMapper' in project 'Pods'
-        ➜ Explicit dependency on target 'Alamofire' in project 'Pods'
-        ➜ Explicit dependency on target 'ObjectMapper' in project 'Pods'
-    Target 'ObjectMapper' in project 'Pods' (no dependencies)
-    Target 'AlamofireImage' in project 'Pods'
-        ➜ Explicit dependency on target 'Alamofire' in project 'Pods'
-    Target 'Alamofire' in project 'Pods' (no dependencies)
-    Target 'Extension' in project 'PrincipalAforeApp' (no dependencies)
-
-GatherProvisioningInputs
-
-CreateBuildDescription
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc --version
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk -x c -c /dev/null
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk -x objective-c -c /dev/null
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --version --output-format xml1
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk -x c -c /dev/null
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --print-asset-tag-combinations --output-format xml1 /Users/c102239/WorkSpace/PrincipalIOSApp/PrincipalAforeApp/Resources/Assets.xcassets
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld -version_details
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk -x c++ -c /dev/null
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk -x objective-c++ -c /dev/null
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -V
-
-ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --version --output-format xml1
-
-Build description signature: 2252f30ecbfcff839396eeea9915aed9
-Build description path: /Users/c102239/Library/Developer/Xcode/DerivedData/PrincipalAforeApp-chqyfxrqhkdspihfjknjeuffwqeg/Build/Intermediates.noindex/XCBuildData/2252f30ecbfcff839396eeea9915aed9.xcbuilddata
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'AlamofireImage' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'RealmSwift-realm_swift_privacy' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'ServiceChatWrapper' from project 'Swift-ServiceChat')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'Identy' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'RealModule' from project 'swift-numerics')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleUtilities-Logger' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleUtilities-UserDefaults' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseCore' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseDatabase' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'SideMenu' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'leveldb' from project 'leveldb')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'Cache' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target '_NumericsShims' from project 'swift-numerics')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'Extension' from project 'PrincipalAforeApp')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'TouchDraw' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleUtilities-Network' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleUtilities-Reachability' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'KeychainSwift' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleUtilities-Environment' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'third-party-IsAppEncrypted' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'ServiceCoreWrapper' from project 'Swift-ServiceChat')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseAppCheckInterop' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'Algorithms' from project 'swift-algorithms')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseCoreInternal' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseInstallations' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseAnalyticsWrapper' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FBLPromises' from project 'Promises')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleAppMeasurementTarget' from project 'GoogleAppMeasurement')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'AlamofireObjectMapper' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleUtilities-AppDelegateSwizzler' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'nanopb' from project 'nanopb')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
 warning: Skipping duplicate build file in Copy Files build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/ProcesarSDK/Facial/FrameworkDaon/DaonFaceQuality.xcframework/ios-arm64/DaonFaceQuality.framework (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
 warning: Skipping duplicate build file in Copy Files build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/ProcesarSDK/Facial/FrameworkDaon/DaonAuthenticatorSDK.xcframework/ios-arm64/DaonAuthenticatorSDK.framework (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
@@ -407,39 +43,27 @@ warning: Skipping duplicate build file in Compile Sources build phase: /Users/c1
 warning: Skipping duplicate build file in Compile Sources build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/PrincipalAforeApp/Screens/Base/SideMenu/Interactor/PRSideMenuInteractor.swift (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
 warning: Skipping duplicate build file in Compile Sources build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/PrincipalAforeApp/Screens/Afore/Controllers/AddContributionVC.swift (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
 warning: Skipping duplicate build file in Compile Sources build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/PrincipalAforeApp/Screens/Retiros/Controllers/CaptureIneFrontVC.swift (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
-warning: Skipping duplicate build file in Compile Sources build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/PrincipalAforeApp/Screens/Expediente/FirmaDocumentos/Entity/PRDocumentType.swift (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
-warning: Skipping duplicate build file in Compile Sources build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/PrincipalAforeApp/Screens/Expediente/ContactDetails/Router/PRWorkAddressRouter.swift (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
 warning: Skipping duplicate build file in Compile Sources build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/PrincipalAforeApp/Screens/Base/LogIn/Interactor/PRLogInInteractor.swift (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
 warning: Skipping duplicate build file in Compile Sources build phase: /Users/c102239/WorkSpace/PrincipalIOSApp/PrincipalAforeApp/Network/ServiceFiles.swift (in target 'PrincipalAforeApp' from project 'PrincipalAforeApp')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'SideMenu' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'KeychainSwift' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'lottie-ios' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'AppsFlyerFramework' from project 'Pods')
-error: Unable to load contents of file list: '/Target Support Files/AppsFlyerFramework/AppsFlyerFramework-xcframeworks-input-files.xcfilelist' (in target 'AppsFlyerFramework' from project 'Pods')
-error: Unable to load contents of file list: '/Target Support Files/AppsFlyerFramework/AppsFlyerFramework-xcframeworks-output-files.xcfilelist' (in target 'AppsFlyerFramework' from project 'Pods')
-warning: Run script build phase '[CP] Copy XCFrameworks' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'AppsFlyerFramework' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'IQKeyboardManagerSwift' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'Cache' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'AlamofireObjectMapper' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'RealmSwift' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'Alamofire' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'Realm' from project 'Pods')
-warning: Unable to read contents of XCFileList '/Target Support Files/Realm/Realm-xcframeworks-output-files.xcfilelist' (in target 'Realm' from project 'Pods')
-error: Unable to load contents of file list: '/Target Support Files/Realm/Realm-xcframeworks-input-files.xcfilelist' (in target 'Realm' from project 'Pods')
-error: Unable to load contents of file list: '/Target Support Files/Realm/Realm-xcframeworks-output-files.xcfilelist' (in target 'Realm' from project 'Pods')
-warning: Run script build phase 'Create Symlinks to Header Folders' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'Realm' from project 'Pods')
-warning: Run script build phase '[CP] Copy XCFrameworks' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'Realm' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'Realm-realm_objc_privacy' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'ObjectMapper' from project 'Pods')
-note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'Extension' from project 'PrincipalAforeApp')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'FSCalendar' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'Pods-PrincipalAforeApp-PrincipalAforeApp' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'Zip' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'Identy' from project 'Pods')
-/Users/c102239/WorkSpace/PrincipalIOSApp/Pods/Pods.xcodeproj: warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.4.99. (in target 'TouchDraw' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'Firebase' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseSharedSwift' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'Pods-PrincipalAforeApp-PrincipalAforeApp' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'AlamofireImage' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'Zip' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'lottie-ios' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleUtilities-MethodSwizzler' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'FSCalendar' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseAnalyticsTarget' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseDatabaseInternal' from project 'Firebase')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleUtilities-NSData' from project 'GoogleUtilities')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'Alamofire' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'IQKeyboardManagerSwift' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'ObjectMapper' from project 'Pods')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'Charts' from project 'Charts')
 ** BUILD FAILED **
 
 
 The following build commands failed:
-	Building workspace PrincipalAforeApp with scheme PrincipalAforeAppStaging and configuration Debug
-(1 failure)
+	CreateBuildDirectory /Users/c102239/Library/Developer/Xcode/DerivedData/PrincipalAforeApp-chqyfxrqhkdspihfjknjeuffwqeg/SourcePackages/checkouts/nanopb/build/Release-iphoneos
+	Building workspace PrincipalAforeApp with scheme PrincipalAforeAppStaging and configuration Release
+(2 failures)
