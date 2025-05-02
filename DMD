@@ -1,65 +1,1522 @@
-_computerlevel[1] attribute: profileIdentifier: D961598C-C368-400E-9587-D18123326D19
-_computerlevel[2] attribute: profileIdentifier: 2F0FDE2A-D60E-4387-A665-56E8485767E8
-_computerlevel[3] attribute: profileIdentifier: com.jamf.connect.login.pppc
-_computerlevel[4] attribute: profileIdentifier: 82FA0F39-84B3-4C8C-A264-794A6F9BE468
-_computerlevel[5] attribute: profileIdentifier: 51D69FEC-F46F-466B-8248-823C877946AE
-_computerlevel[6] attribute: profileIdentifier: 5F918667-702A-4418-910E-226C47B8E044
-_computerlevel[7] attribute: profileIdentifier: 02652B03-35A2-4A29-B5A9-EA7CEF517C21
-_computerlevel[8] attribute: profileIdentifier: 5489877C-7BF7-4D41-90C0-69C4D8C80153
-_computerlevel[9] attribute: profileIdentifier: com.jamf.protect.46862525-9e88-4292-a306-2b928e14705f
-_computerlevel[10] attribute: profileIdentifier: A0860BC3-F282-4E75-80FA-953B1F4F434C
-_computerlevel[11] attribute: profileIdentifier: com.jamf.notifications.settings
-_computerlevel[12] attribute: profileIdentifier: 6DB0E33F-D2B1-4146-95D9-204CEF37EC6F
-_computerlevel[13] attribute: profileIdentifier: BA6D29A0-164E-43EE-B461-AC4CCE8F44E2
-_computerlevel[14] attribute: profileIdentifier: 931FFF90-897E-47F4-AF38-1F457FA9DB82
-_computerlevel[15] attribute: profileIdentifier: CED6C212-98F7-4CB2-8C9F-5419331DFE62
-_computerlevel[16] attribute: profileIdentifier: 755D9F10-58E2-4770-8C8F-B7CC9F2C1366
-_computerlevel[17] attribute: profileIdentifier: com.jamfsoftware.tcc.management
-_computerlevel[18] attribute: profileIdentifier: C9070AB1-C764-4958-9B0E-EC965DDF82C1
-_computerlevel[19] attribute: profileIdentifier: 5544D54B-D8BB-4873-8A2E-8360FD45F618
-_computerlevel[20] attribute: profileIdentifier: 9AC9DD6A-7A85-48D5-A31E-361604E5A094
-_computerlevel[21] attribute: profileIdentifier: BEE208B1-36C5-4197-9E1B-ADEB22C5D33E
-_computerlevel[22] attribute: profileIdentifier: E5EC99EC-2382-4281-A533-1AD46ECB5A38
-_computerlevel[23] attribute: profileIdentifier: 613A587B-070B-4A8A-AD0D-90179F5234D0
-_computerlevel[24] attribute: profileIdentifier: C49B1346-67D1-4918-A88D-295AA85D54D4
-_computerlevel[25] attribute: profileIdentifier: 53E79E1A-EA49-4963-B866-B18A8062F52A
-_computerlevel[26] attribute: profileIdentifier: F775B843-0B1E-4A3A-BBA7-0A823603AD1F
-_computerlevel[27] attribute: profileIdentifier: F24512B3-D24B-4AC2-8C17-158BF33E1815
-_computerlevel[28] attribute: profileIdentifier: com.jamf.protect.daemon.pppc
-_computerlevel[29] attribute: profileIdentifier: 8CA0F32A-6BE5-433A-80CA-1EDC047ACE9A
-_computerlevel[30] attribute: profileIdentifier: DB8494CC-8DC5-4F8B-B93E-0BCA2FC257E3
-_computerlevel[31] attribute: profileIdentifier: 996DBBA9-F8EF-4A40-995E-78D66D9F60FF
-_computerlevel[32] attribute: profileIdentifier: 9F5AE6A4-BE5E-4944-BC02-B9A3B5F1F397
-_computerlevel[33] attribute: profileIdentifier: D8DE1F32-0785-43EA-926F-DC55EB1B6EDA
-_computerlevel[34] attribute: profileIdentifier: E445AE21-BE4E-4920-8553-8A3C8E9357D2
-_computerlevel[35] attribute: profileIdentifier: com.jamf.servicemanagement.appinstallers
-_computerlevel[36] attribute: profileIdentifier: 9B3D165D-8387-4606-9629-0B9918819912
-_computerlevel[37] attribute: profileIdentifier: 0F3DC1E3-DA0F-4461-981D-9FE3E4513C7F
-_computerlevel[38] attribute: profileIdentifier: FEACC371-FBF4-423F-BE13-D0270D9A456A
-_computerlevel[39] attribute: profileIdentifier: 1B978CB4-A26F-4509-A8E8-A8921EC20497
-_computerlevel[40] attribute: profileIdentifier: 50607147-FBEB-481B-B8C1-1EEE908C9245
-_computerlevel[41] attribute: profileIdentifier: 2D5A2BE9-125E-41A2-ADC3-609D74116359
-_computerlevel[42] attribute: profileIdentifier: 005D6FCC-E423-4248-9BD4-A1D5A5D672C6
-_computerlevel[43] attribute: profileIdentifier: B334156C-41CB-4435-B5C4-7F4DE6A5774D
-_computerlevel[44] attribute: profileIdentifier: 0BF61849-27E2-4F6B-9203-C4D6F055B713
-_computerlevel[45] attribute: profileIdentifier: D05B1242-461F-40E6-957D-584677F24B63
-_computerlevel[46] attribute: profileIdentifier: 00000000-0000-0000-A000-4A414D460003
-_computerlevel[47] attribute: profileIdentifier: 0FDBEF2B-0950-43F8-884F-73F7BE3A49D4
-_computerlevel[48] attribute: profileIdentifier: 017EE5F9-E001-4AAB-8519-F4658A7F63E7
-_computerlevel[49] attribute: profileIdentifier: 48FA920C-D699-4C9C-8C13-B4E6312AE457
-_computerlevel[50] attribute: profileIdentifier: BF1A594F-DCEA-49FA-991E-E7D925EB8252
-_computerlevel[51] attribute: profileIdentifier: DD603C50-9CF1-4830-94F9-671DFFA9E311
-_computerlevel[52] attribute: profileIdentifier: 3B5F11F5-75BA-474D-8DD6-9C60DC73958F
-_computerlevel[53] attribute: profileIdentifier: 4BA134F5-D79B-41E5-A948-9E0E70D64E0B
-_computerlevel[54] attribute: profileIdentifier: 4FBA3723-5A1F-43F7-8E82-045852D941C5
-_computerlevel[55] attribute: profileIdentifier: com.jamf.servicemanagement.backgroundapps
-_computerlevel[56] attribute: profileIdentifier: 998B4BE7-AF45-4001-BB50-0831C7E8CB69
-_computerlevel[57] attribute: profileIdentifier: F8690CAF-E127-4906-BC5A-6DF815467346
-_computerlevel[58] attribute: profileIdentifier: E0217EB4-0D40-426E-9552-7B4EAA928A54
-_computerlevel[59] attribute: profileIdentifier: com.jamf.connect.notifications.settings
-_computerlevel[60] attribute: profileIdentifier: C6A5BF78-4AF7-4A3A-BAD4-52D5FFE3DBB2
-_computerlevel[61] attribute: profileIdentifier: 8C20F67D-E769-40FB-BFF3-DE06853E5A91
-_computerlevel[62] attribute: profileIdentifier: 0C81CB5A-13F8-45E3-B825-8FEA07872156
-_computerlevel[63] attribute: profileIdentifier: 415AA39C-6F20-422B-B76C-6750660352C0
-_computerlevel[64] attribute: profileIdentifier: 1899700B-9035-467D-BF0F-FB6C04CBADEC
-_computerlevel[65] attribute: profileIdentifier: 152C5094-1723-42AE-8FD5-1D9C620C8239
+Last login: Thu May  1 12:19:26 on ttys000
+c102239@LMR7X6RVHGD6 ~ % sudo profiles show              
+Password:
+_computerlevel[1] attribute: name: CrowdStrike Falcon - Network Extension
+_computerlevel[1] attribute: configurationDescription: 
+_computerlevel[1] attribute: installationDate: 2023-02-07 19:23:22 +0000
+_computerlevel[1] attribute: organization: Principal Life Insurance Company
+_computerlevel[1] attribute: profileIdentifier: 50607147-FBEB-481B-B8C1-1EEE908C9245
+_computerlevel[1] attribute: profileUUID: 50607147-FBEB-481B-B8C1-1EEE908C9245
+_computerlevel[1] attribute: profileType: Configuration
+_computerlevel[1] attribute: removalDisallowed: TRUE
+_computerlevel[1] attribute: version: 1
+_computerlevel[1] attribute: containsComputerItems: TRUE
+_computerlevel[1] attribute: installedByMDM: TRUE
+_computerlevel[1] attribute: internaldata: TRUE
+_computerlevel[1] payload count = 1
+_computerlevel[1]            payload[1] name			= Web Content Filter Payload
+_computerlevel[1]            payload[1] description		= (null)
+_computerlevel[1]            payload[1] type			= com.apple.webcontent-filter
+_computerlevel[1]            payload[1] organization		= JAMF Software
+_computerlevel[1]            payload[1] identifier		= 5F04DA43-082D-471D-A583-7C976F12140C
+_computerlevel[1]            payload[1] uuid			= 5F04DA43-082D-471D-A583-7C976F12140C
+_computerlevel[2] attribute: name: Jamf Connect - Login Settings
+_computerlevel[2] attribute: configurationDescription: 
+_computerlevel[2] attribute: installationDate: 2024-06-05 14:50:56 +0000
+_computerlevel[2] attribute: organization: Principal Life Insurance Company
+_computerlevel[2] attribute: profileIdentifier: 2D5A2BE9-125E-41A2-ADC3-609D74116359
+_computerlevel[2] attribute: profileUUID: 2D5A2BE9-125E-41A2-ADC3-609D74116359
+_computerlevel[2] attribute: profileType: Configuration
+_computerlevel[2] attribute: removalDisallowed: TRUE
+_computerlevel[2] attribute: version: 1
+_computerlevel[2] attribute: containsComputerItems: TRUE
+_computerlevel[2] attribute: installedByMDM: TRUE
+_computerlevel[2] attribute: internaldata: TRUE
+_computerlevel[2] payload count = 1
+_computerlevel[2]            payload[1] name			= Custom Settings
+_computerlevel[2]            payload[1] description		= (null)
+_computerlevel[2]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[2]            payload[1] organization		= JAMF Software
+_computerlevel[2]            payload[1] identifier		= 104A53EF-C2E9-45B4-B716-4F70BC59CF7A
+_computerlevel[2]            payload[1] uuid			= 104A53EF-C2E9-45B4-B716-4F70BC59CF7A
+_computerlevel[3] attribute: name: Mount File Shares
+_computerlevel[3] attribute: configurationDescription: Mounts the NAS share for TLS 11/01/17ed in user
+_computerlevel[3] attribute: installationDate: 2023-02-07 19:23:36 +0000
+_computerlevel[3] attribute: organization: Principal Life Insurance Company
+_computerlevel[3] attribute: profileIdentifier: 005D6FCC-E423-4248-9BD4-A1D5A5D672C6
+_computerlevel[3] attribute: profileUUID: 005D6FCC-E423-4248-9BD4-A1D5A5D672C6
+_computerlevel[3] attribute: profileType: Configuration
+_computerlevel[3] attribute: removalDisallowed: TRUE
+_computerlevel[3] attribute: version: 1
+_computerlevel[3] attribute: containsComputerItems: TRUE
+_computerlevel[3] attribute: installedByMDM: TRUE
+_computerlevel[3] attribute: internaldata: TRUE
+_computerlevel[3] payload count = 2
+_computerlevel[3]            payload[1] name			= Login Window
+_computerlevel[3]            payload[1] description		= 
+_computerlevel[3]            payload[1] type			= com.apple.loginwindow
+_computerlevel[3]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[3]            payload[1] identifier		= EB6CAEC8-A3F3-4FC1-8F8C-72962DB13903
+_computerlevel[3]            payload[1] uuid			= EB6CAEC8-A3F3-4FC1-8F8C-72962DB13903
+_computerlevel[3]            payload[2] name			= Login Items:  Managed Items
+_computerlevel[3]            payload[2] description		= 
+_computerlevel[3]            payload[2] type			= com.apple.loginitems.managed
+_computerlevel[3]            payload[2] organization		= Principal Life Insurance Company
+_computerlevel[3]            payload[2] identifier		= C5046E8F-4B89-4B94-A2C3-B88296AD88B2
+_computerlevel[3]            payload[2] uuid			= C5046E8F-4B89-4B94-A2C3-B88296AD88B2
+_computerlevel[4] attribute: name: Proofpoint DLP - Notifications
+_computerlevel[4] attribute: configurationDescription: 
+_computerlevel[4] attribute: installationDate: 2023-02-07 19:23:27 +0000
+_computerlevel[4] attribute: organization: Principal Life Insurance Company
+_computerlevel[4] attribute: profileIdentifier: B334156C-41CB-4435-B5C4-7F4DE6A5774D
+_computerlevel[4] attribute: profileUUID: B334156C-41CB-4435-B5C4-7F4DE6A5774D
+_computerlevel[4] attribute: profileType: com.apple.TCC.configuration-profile-policy
+_computerlevel[4] attribute: removalDisallowed: TRUE
+_computerlevel[4] attribute: version: 1
+_computerlevel[4] attribute: containsComputerItems: TRUE
+_computerlevel[4] attribute: installedByMDM: TRUE
+_computerlevel[4] attribute: internaldata: TRUE
+_computerlevel[4] payload count = 1
+_computerlevel[4]            payload[1] name			= Notifications Payload
+_computerlevel[4]            payload[1] description		= (null)
+_computerlevel[4]            payload[1] type			= com.apple.notificationsettings
+_computerlevel[4]            payload[1] organization		= JAMF Software
+_computerlevel[4]            payload[1] identifier		= 811D03D1-0CD7-48E0-B6E7-A5AAB03A7862
+_computerlevel[4]            payload[1] uuid			= 91E3E824-E6DA-4A06-9F25-D4E80732C884
+_computerlevel[5] attribute: name: Apple Intelligence - Disable External Intelligence Integrations
+_computerlevel[5] attribute: configurationDescription: Disables External Intelligence Integrations and prohibits integrations with external services including ChatGPT and Google Gemini
+_computerlevel[5] attribute: installationDate: 2025-01-17 22:17:16 +0000
+_computerlevel[5] attribute: organization: Principal Life Insurance Company
+_computerlevel[5] attribute: profileIdentifier: 0BF61849-27E2-4F6B-9203-C4D6F055B713
+_computerlevel[5] attribute: profileUUID: 0BF61849-27E2-4F6B-9203-C4D6F055B713
+_computerlevel[5] attribute: profileType: Configuration
+_computerlevel[5] attribute: removalDisallowed: TRUE
+_computerlevel[5] attribute: version: 1
+_computerlevel[5] attribute: containsComputerItems: TRUE
+_computerlevel[5] attribute: installedByMDM: TRUE
+_computerlevel[5] attribute: internaldata: TRUE
+_computerlevel[5] payload count = 1
+_computerlevel[5]            payload[1] name			= Restrictions
+_computerlevel[5]            payload[1] description		= 
+_computerlevel[5]            payload[1] type			= com.apple.applicationaccess
+_computerlevel[5]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[5]            payload[1] identifier		= com.apple.applicationaccess.69140388-BF31-4C0E-A791-F8EFDCB54C49
+_computerlevel[5]            payload[1] uuid			= 69140388-BF31-4C0E-A791-F8EFDCB54C49
+_computerlevel[6] attribute: name: Encore Auto-Update Settings
+_computerlevel[6] attribute: configurationDescription: 
+_computerlevel[6] attribute: installationDate: 2023-02-07 19:23:07 +0000
+_computerlevel[6] attribute: organization: Principal Life Insurance Company
+_computerlevel[6] attribute: profileIdentifier: D05B1242-461F-40E6-957D-584677F24B63
+_computerlevel[6] attribute: profileUUID: D05B1242-461F-40E6-957D-584677F24B63
+_computerlevel[6] attribute: profileType: Configuration
+_computerlevel[6] attribute: removalDisallowed: TRUE
+_computerlevel[6] attribute: version: 1
+_computerlevel[6] attribute: containsComputerItems: TRUE
+_computerlevel[6] attribute: installedByMDM: TRUE
+_computerlevel[6] attribute: internaldata: TRUE
+_computerlevel[6] payload count = 1
+_computerlevel[6]            payload[1] name			= Custom Settings
+_computerlevel[6]            payload[1] description		= (null)
+_computerlevel[6]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[6]            payload[1] organization		= Encore Technologies
+_computerlevel[6]            payload[1] identifier		= 95FB887B-0430-48AA-91DF-3EBE9402949A
+_computerlevel[6]            payload[1] uuid			= 95FB887B-0430-48AA-91DF-3EBE9402949A
+_computerlevel[7] attribute: name: MDM Profile
+_computerlevel[7] attribute: configurationDescription: MDM Profile for mobile device management
+_computerlevel[7] attribute: installationDate: 2024-08-12 15:06:33 +0000
+_computerlevel[7] attribute: organization: Principal Life Insurance Company
+_computerlevel[7] attribute: profileIdentifier: 00000000-0000-0000-A000-4A414D460003
+_computerlevel[7] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460003
+_computerlevel[7] attribute: profileType: Configuration
+_computerlevel[7] attribute: removalDisallowed: FALSE
+_computerlevel[7] attribute: version: 1
+_computerlevel[7] attribute: containsComputerItems: TRUE
+_computerlevel[7] attribute: installedByMDM: FALSE
+_computerlevel[7] attribute: internaldata: TRUE
+_computerlevel[7] payload count = 3
+_computerlevel[7]            payload[1] name			= JAMF Enrollment Payload: SCEP
+_computerlevel[7]            payload[1] description		= Configuration to connect to your SCEP Server
+_computerlevel[7]            payload[1] type			= com.apple.security.scep
+_computerlevel[7]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[7]            payload[1] identifier		= com.jamfsoftware.encrypted-profile-service-scep2
+_computerlevel[7]            payload[1] uuid			= 00000000-0000-0000-A000-4A414D460006
+_computerlevel[7]            payload[2] name			= JAMF Manual Enrollment Payload: MDM
+_computerlevel[7]            payload[2] description		= Configuration to connect to your MDM Server
+_computerlevel[7]            payload[2] type			= com.apple.mdm
+_computerlevel[7]            payload[2] organization		= Principal Life Insurance Company
+_computerlevel[7]            payload[2] identifier		= 00000000-0000-0000-A000-4A414D460004
+_computerlevel[7]            payload[2] uuid			= 00000000-0000-0000-A000-4A414D460004
+_computerlevel[7]            payload[3] name			= CN=Principal Life Insurance Company JSS Built-in Certificate Authority
+_computerlevel[7]            payload[3] description		= A Root CA Certificate
+_computerlevel[7]            payload[3] type			= com.apple.security.root
+_computerlevel[7]            payload[3] organization		= Principal Life Insurance Company
+_computerlevel[7]            payload[3] identifier		= 3E0C74D3-20AD-424E-953F-1BC84D7514A0
+_computerlevel[7]            payload[3] uuid			= 3E0C74D3-20AD-424E-953F-1BC84D7514A0
+_computerlevel[8] attribute: name: PFGIssuingCA7
+_computerlevel[8] attribute: configurationDescription: 
+_computerlevel[8] attribute: installationDate: 2024-08-14 17:35:02 +0000
+_computerlevel[8] attribute: organization: Principal Life Insurance Company
+_computerlevel[8] attribute: profileIdentifier: 0FDBEF2B-0950-43F8-884F-73F7BE3A49D4
+_computerlevel[8] attribute: profileUUID: 0FDBEF2B-0950-43F8-884F-73F7BE3A49D4
+_computerlevel[8] attribute: profileType: Configuration
+_computerlevel[8] attribute: removalDisallowed: TRUE
+_computerlevel[8] attribute: version: 1
+_computerlevel[8] attribute: containsComputerItems: TRUE
+_computerlevel[8] attribute: installedByMDM: TRUE
+_computerlevel[8] attribute: internaldata: TRUE
+_computerlevel[8] payload count = 1
+_computerlevel[8]            payload[1] name			= PFGIssuingCA7
+_computerlevel[8]            payload[1] description		= 
+_computerlevel[8]            payload[1] type			= com.apple.security.pkcs1
+_computerlevel[8]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[8]            payload[1] identifier		= D53EA476-04DA-42AB-9029-A02C38E6FD78
+_computerlevel[8]            payload[1] uuid			= D53EA476-04DA-42AB-9029-A02C38E6FD78
+_computerlevel[9] attribute: name: Zscaler - Install Parameters
+_computerlevel[9] attribute: configurationDescription: 
+_computerlevel[9] attribute: installationDate: 2024-01-19 16:27:22 +0000
+_computerlevel[9] attribute: organization: Principal Life Insurance Company
+_computerlevel[9] attribute: profileIdentifier: 017EE5F9-E001-4AAB-8519-F4658A7F63E7
+_computerlevel[9] attribute: profileUUID: 017EE5F9-E001-4AAB-8519-F4658A7F63E7
+_computerlevel[9] attribute: profileType: Configuration
+_computerlevel[9] attribute: removalDisallowed: TRUE
+_computerlevel[9] attribute: version: 1
+_computerlevel[9] attribute: containsComputerItems: TRUE
+_computerlevel[9] attribute: installedByMDM: TRUE
+_computerlevel[9] attribute: internaldata: TRUE
+_computerlevel[9] payload count = 1
+_computerlevel[9]            payload[1] name			= Custom Settings
+_computerlevel[9]            payload[1] description		= (null)
+_computerlevel[9]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[9]            payload[1] organization		= JAMF Software
+_computerlevel[9]            payload[1] identifier		= EBD20BFD-A632-4653-AB9B-9624DEB0CC92
+_computerlevel[9]            payload[1] uuid			= EBD20BFD-A632-4653-AB9B-9624DEB0CC92
+_computerlevel[10] attribute: name: CrowdStrike Falcon - Non-Removal System Extension
+_computerlevel[10] attribute: configurationDescription: 
+_computerlevel[10] attribute: installationDate: 2024-11-11 22:27:30 +0000
+_computerlevel[10] attribute: organization: Principal Life Insurance Company
+_computerlevel[10] attribute: profileIdentifier: 48FA920C-D699-4C9C-8C13-B4E6312AE457
+_computerlevel[10] attribute: profileUUID: 48FA920C-D699-4C9C-8C13-B4E6312AE457
+_computerlevel[10] attribute: profileType: Configuration
+_computerlevel[10] attribute: removalDisallowed: TRUE
+_computerlevel[10] attribute: version: 1
+_computerlevel[10] attribute: containsComputerItems: TRUE
+_computerlevel[10] attribute: installedByMDM: TRUE
+_computerlevel[10] attribute: internaldata: TRUE
+_computerlevel[10] payload count = 1
+_computerlevel[10]            payload[1] name			= System Extensions
+_computerlevel[10]            payload[1] description		= 
+_computerlevel[10]            payload[1] type			= com.apple.system-extension-policy
+_computerlevel[10]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[10]            payload[1] identifier		= 63426DED-CD36-4A90-8FA4-E74B9CA2AB8F
+_computerlevel[10]            payload[1] uuid			= 63426DED-CD36-4A90-8FA4-E74B9CA2AB8F
+_computerlevel[11] attribute: name: Jamf Connect - Menu Bar Settings
+_computerlevel[11] attribute: configurationDescription: 
+_computerlevel[11] attribute: installationDate: 2024-06-05 15:13:20 +0000
+_computerlevel[11] attribute: organization: Principal Life Insurance Company
+_computerlevel[11] attribute: profileIdentifier: BF1A594F-DCEA-49FA-991E-E7D925EB8252
+_computerlevel[11] attribute: profileUUID: BF1A594F-DCEA-49FA-991E-E7D925EB8252
+_computerlevel[11] attribute: profileType: Configuration
+_computerlevel[11] attribute: removalDisallowed: TRUE
+_computerlevel[11] attribute: version: 1
+_computerlevel[11] attribute: containsComputerItems: TRUE
+_computerlevel[11] attribute: installedByMDM: TRUE
+_computerlevel[11] attribute: internaldata: TRUE
+_computerlevel[11] payload count = 1
+_computerlevel[11]            payload[1] name			= Custom Settings
+_computerlevel[11]            payload[1] description		= (null)
+_computerlevel[11]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[11]            payload[1] organization		= JAMF Software
+_computerlevel[11]            payload[1] identifier		= 2B35A79D-CF4B-4C7D-B15E-959562177D5C
+_computerlevel[11]            payload[1] uuid			= 2B35A79D-CF4B-4C7D-B15E-959562177D5C
+_computerlevel[12] attribute: name: Mozilla Firefox Settings - Enable Auto-Update
+_computerlevel[12] attribute: configurationDescription: 
+_computerlevel[12] attribute: installationDate: 2023-04-12 21:58:36 +0000
+_computerlevel[12] attribute: organization: Principal Life Insurance Company
+_computerlevel[12] attribute: profileIdentifier: DD603C50-9CF1-4830-94F9-671DFFA9E311
+_computerlevel[12] attribute: profileUUID: DD603C50-9CF1-4830-94F9-671DFFA9E311
+_computerlevel[12] attribute: profileType: Configuration
+_computerlevel[12] attribute: removalDisallowed: TRUE
+_computerlevel[12] attribute: version: 1
+_computerlevel[12] attribute: containsComputerItems: TRUE
+_computerlevel[12] attribute: installedByMDM: TRUE
+_computerlevel[12] attribute: internaldata: TRUE
+_computerlevel[12] payload count = 1
+_computerlevel[12]            payload[1] name			= Custom Settings
+_computerlevel[12]            payload[1] description		= (null)
+_computerlevel[12]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[12]            payload[1] organization		= JAMF Software
+_computerlevel[12]            payload[1] identifier		= B34A5C63-8269-4278-8E93-E1339288B2B3
+_computerlevel[12]            payload[1] uuid			= B34A5C63-8269-4278-8E93-E1339288B2B3
+_computerlevel[13] attribute: name: Security & Privacy Settings
+_computerlevel[13] attribute: configurationDescription: CIS Settings for FirewalModified to escrow FileVault Recovery Keytions via Firewall
+_computerlevel[13] attribute: installationDate: 2023-02-07 19:23:56 +0000
+_computerlevel[13] attribute: organization: Principal Life Insurance Company
+_computerlevel[13] attribute: profileIdentifier: 3B5F11F5-75BA-474D-8DD6-9C60DC73958F
+_computerlevel[13] attribute: profileUUID: 3B5F11F5-75BA-474D-8DD6-9C60DC73958F
+_computerlevel[13] attribute: profileType: Configuration
+_computerlevel[13] attribute: removalDisallowed: TRUE
+_computerlevel[13] attribute: version: 1
+_computerlevel[13] attribute: containsComputerItems: TRUE
+_computerlevel[13] attribute: installedByMDM: TRUE
+_computerlevel[13] attribute: internaldata: TRUE
+_computerlevel[13] payload count = 9
+_computerlevel[13]            payload[1] name			= JSS FileVault Recovery Key Escrow Certificate
+_computerlevel[13]            payload[1] description		= 
+_computerlevel[13]            payload[1] type			= com.apple.security.pkcs1
+_computerlevel[13]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[1] identifier		= 6AEB248E-1ECC-4471-A234-225A5E866BB6
+_computerlevel[13]            payload[1] uuid			= 515851b2-9b26-4739-9801-0675a7584316
+_computerlevel[13]            payload[2] name			= ScreenSaver
+_computerlevel[13]            payload[2] description		= 
+_computerlevel[13]            payload[2] type			= com.apple.screensaver
+_computerlevel[13]            payload[2] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[2] identifier		= 24BF4903-657F-4B50-A367-D28D5D667D05
+_computerlevel[13]            payload[2] uuid			= 24BF4903-657F-4B50-A367-D28D5D667D05
+_computerlevel[13]            payload[3] name			= FileVault Recovery Key Escrow
+_computerlevel[13]            payload[3] description		= (null)
+_computerlevel[13]            payload[3] type			= com.apple.security.FDERecoveryKeyEscrow
+_computerlevel[13]            payload[3] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[3] identifier		= BF8E7EA4-16D0-4FB3-8FFE-3F761AE9AEE3
+_computerlevel[13]            payload[3] uuid			= BF8E7EA4-16D0-4FB3-8FFE-3F761AE9AEE3
+_computerlevel[13]            payload[4] name			= SystemPolicyControl
+_computerlevel[13]            payload[4] description		= (null)
+_computerlevel[13]            payload[4] type			= com.apple.systempolicy.control
+_computerlevel[13]            payload[4] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[4] identifier		= 1485D85B-D98F-40DE-9682-B96C6DAD6EEA
+_computerlevel[13]            payload[4] uuid			= 1485D85B-D98F-40DE-9682-B96C6DAD6EEA
+_computerlevel[13]            payload[5] name			= Restrictions
+_computerlevel[13]            payload[5] description		= 
+_computerlevel[13]            payload[5] type			= com.apple.applicationaccess
+_computerlevel[13]            payload[5] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[5] identifier		= AE46BDCF-9951-4290-8A15-8D18F45CD5C6
+_computerlevel[13]            payload[5] uuid			= AE46BDCF-9951-4290-8A15-8D18F45CD5C6
+_computerlevel[13]            payload[6] name			= Login Window
+_computerlevel[13]            payload[6] description		= 
+_computerlevel[13]            payload[6] type			= com.apple.loginwindow
+_computerlevel[13]            payload[6] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[6] identifier		= 38977D12-0AB4-40C0-BB14-F0FD1674079A
+_computerlevel[13]            payload[6] uuid			= 38977D12-0AB4-40C0-BB14-F0FD1674079A
+_computerlevel[13]            payload[7] name			= MCX
+_computerlevel[13]            payload[7] description		= 
+_computerlevel[13]            payload[7] type			= com.apple.MCX
+_computerlevel[13]            payload[7] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[7] identifier		= 0925C7A5-6DC2-409E-9092-90966554DE50
+_computerlevel[13]            payload[7] uuid			= 0925C7A5-6DC2-409E-9092-90966554DE50
+_computerlevel[13]            payload[8] name			= SubmitDiagInfo
+_computerlevel[13]            payload[8] description		= (null)
+_computerlevel[13]            payload[8] type			= com.apple.SubmitDiagInfo
+_computerlevel[13]            payload[8] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[8] identifier		= 882E437F-15E7-404B-B4F9-F96FEF23294D
+_computerlevel[13]            payload[8] uuid			= 882E437F-15E7-404B-B4F9-F96FEF23294D
+_computerlevel[13]            payload[9] name			= Firewall
+_computerlevel[13]            payload[9] description		= (null)
+_computerlevel[13]            payload[9] type			= com.apple.security.firewall
+_computerlevel[13]            payload[9] organization		= Principal Life Insurance Company
+_computerlevel[13]            payload[9] identifier		= 21D5355B-B661-48BC-8CF5-E6D605517C9A
+_computerlevel[13]            payload[9] uuid			= 21D5355B-B661-48BC-8CF5-E6D605517C9A
+_computerlevel[14] attribute: name: Apple Intelligence - Disable Mail Summary
+_computerlevel[14] attribute: configurationDescription: 
+_computerlevel[14] attribute: installationDate: 2024-11-11 22:27:41 +0000
+_computerlevel[14] attribute: organization: Principal Life Insurance Company
+_computerlevel[14] attribute: profileIdentifier: 4BA134F5-D79B-41E5-A948-9E0E70D64E0B
+_computerlevel[14] attribute: profileUUID: 4BA134F5-D79B-41E5-A948-9E0E70D64E0B
+_computerlevel[14] attribute: profileType: Configuration
+_computerlevel[14] attribute: removalDisallowed: TRUE
+_computerlevel[14] attribute: version: 1
+_computerlevel[14] attribute: containsComputerItems: TRUE
+_computerlevel[14] attribute: installedByMDM: TRUE
+_computerlevel[14] attribute: internaldata: TRUE
+_computerlevel[14] payload count = 1
+_computerlevel[14]            payload[1] name			= Restrictions
+_computerlevel[14]            payload[1] description		= 
+_computerlevel[14]            payload[1] type			= com.apple.applicationaccess
+_computerlevel[14]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[14]            payload[1] identifier		= com.apple.applicationaccess.6DD01B26-8368-45FE-A4F7-35F4CD153E5D
+_computerlevel[14]            payload[1] uuid			= 6DD01B26-8368-45FE-A4F7-35F4CD153E5D
+_computerlevel[15] attribute: name: Encore Monitoring Client - Managed Login Item
+_computerlevel[15] attribute: configurationDescription: 
+_computerlevel[15] attribute: installationDate: 2023-11-10 20:06:53 +0000
+_computerlevel[15] attribute: organization: Principal Life Insurance Company
+_computerlevel[15] attribute: profileIdentifier: 4FBA3723-5A1F-43F7-8E82-045852D941C5
+_computerlevel[15] attribute: profileUUID: 4FBA3723-5A1F-43F7-8E82-045852D941C5
+_computerlevel[15] attribute: profileType: Configuration
+_computerlevel[15] attribute: removalDisallowed: TRUE
+_computerlevel[15] attribute: version: 1
+_computerlevel[15] attribute: containsComputerItems: TRUE
+_computerlevel[15] attribute: installedByMDM: TRUE
+_computerlevel[15] attribute: internaldata: TRUE
+_computerlevel[15] payload count = 1
+_computerlevel[15]            payload[1] name			= Managed Login Items
+_computerlevel[15]            payload[1] description		= (null)
+_computerlevel[15]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[15]            payload[1] organization		= JAMF Software
+_computerlevel[15]            payload[1] identifier		= E98E920E-8E51-42B4-AF72-1DAF4B4D3602
+_computerlevel[15]            payload[1] uuid			= E98E920E-8E51-42B4-AF72-1DAF4B4D3602
+_computerlevel[16] attribute: name: Managed Login Items - Jamf Apps
+_computerlevel[16] attribute: configurationDescription: 
+_computerlevel[16] attribute: installationDate: 2023-02-15 15:02:44 +0000
+_computerlevel[16] attribute: organization: Principal Life Insurance Company
+_computerlevel[16] attribute: profileIdentifier: com.jamf.servicemanagement.backgroundapps
+_computerlevel[16] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460020
+_computerlevel[16] attribute: profileType: Configuration
+_computerlevel[16] attribute: removalDisallowed: TRUE
+_computerlevel[16] attribute: version: 1
+_computerlevel[16] attribute: containsComputerItems: TRUE
+_computerlevel[16] attribute: installedByMDM: TRUE
+_computerlevel[16] attribute: internaldata: TRUE
+_computerlevel[16] payload count = 1
+_computerlevel[16]            payload[1] name			= Managed Login Items - Jamf Apps
+_computerlevel[16]            payload[1] description		= Allows for Jamf to register a launch daemons and launch agents
+_computerlevel[16]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[16]            payload[1] organization		= Jamf
+_computerlevel[16]            payload[1] identifier		= com.jamf.servicemanagement.backgroundapps.C300A686-F336-46AA-984E-00A79B429210
+_computerlevel[16]            payload[1] uuid			= 8C2FA619-3ABC-456B-ABA7-09C98180F435
+_computerlevel[17] attribute: name: PFGRootCA
+_computerlevel[17] attribute: configurationDescription: 
+_computerlevel[17] attribute: installationDate: 2023-02-07 19:23:03 +0000
+_computerlevel[17] attribute: organization: Principal Life Insurance Company
+_computerlevel[17] attribute: profileIdentifier: 998B4BE7-AF45-4001-BB50-0831C7E8CB69
+_computerlevel[17] attribute: profileUUID: 998B4BE7-AF45-4001-BB50-0831C7E8CB69
+_computerlevel[17] attribute: profileType: Configuration
+_computerlevel[17] attribute: removalDisallowed: TRUE
+_computerlevel[17] attribute: version: 1
+_computerlevel[17] attribute: containsComputerItems: TRUE
+_computerlevel[17] attribute: installedByMDM: TRUE
+_computerlevel[17] attribute: internaldata: TRUE
+_computerlevel[17] payload count = 1
+_computerlevel[17]            payload[1] name			= PFGRootCA
+_computerlevel[17]            payload[1] description		= 
+_computerlevel[17]            payload[1] type			= com.apple.security.root
+_computerlevel[17]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[17]            payload[1] identifier		= 88979C70-3E47-4A90-982A-78E577CE5D21
+_computerlevel[17]            payload[1] uuid			= 88979C70-3E47-4A90-982A-78E577CE5D21
+_computerlevel[18] attribute: name: Zscaler - Root Certificate
+_computerlevel[18] attribute: configurationDescription: 
+_computerlevel[18] attribute: installationDate: 2023-02-07 19:23:26 +0000
+_computerlevel[18] attribute: organization: Principal Life Insurance Company
+_computerlevel[18] attribute: profileIdentifier: F8690CAF-E127-4906-BC5A-6DF815467346
+_computerlevel[18] attribute: profileUUID: F8690CAF-E127-4906-BC5A-6DF815467346
+_computerlevel[18] attribute: profileType: Configuration
+_computerlevel[18] attribute: removalDisallowed: TRUE
+_computerlevel[18] attribute: version: 1
+_computerlevel[18] attribute: containsComputerItems: TRUE
+_computerlevel[18] attribute: installedByMDM: TRUE
+_computerlevel[18] attribute: internaldata: TRUE
+_computerlevel[18] payload count = 1
+_computerlevel[18]            payload[1] name			= Zscaler Root Certificate
+_computerlevel[18]            payload[1] description		= 
+_computerlevel[18]            payload[1] type			= com.apple.security.root
+_computerlevel[18]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[18]            payload[1] identifier		= BFDA4806-E1E3-42FC-AD1A-25F9EA6711CC
+_computerlevel[18]            payload[1] uuid			= BFDA4806-E1E3-42FC-AD1A-25F9EA6711CC
+_computerlevel[19] attribute: name: jamJAR Settings
+_computerlevel[19] attribute: configurationDescription: 
+_computerlevel[19] attribute: installationDate: 2023-02-07 19:23:04 +0000
+_computerlevel[19] attribute: organization: Principal Life Insurance Company
+_computerlevel[19] attribute: profileIdentifier: D961598C-C368-400E-9587-D18123326D19
+_computerlevel[19] attribute: profileUUID: D961598C-C368-400E-9587-D18123326D19
+_computerlevel[19] attribute: profileType: Configuration
+_computerlevel[19] attribute: removalDisallowed: TRUE
+_computerlevel[19] attribute: version: 1
+_computerlevel[19] attribute: containsComputerItems: TRUE
+_computerlevel[19] attribute: installedByMDM: TRUE
+_computerlevel[19] attribute: internaldata: TRUE
+_computerlevel[19] payload count = 1
+_computerlevel[19]            payload[1] name			= Custom Settings
+_computerlevel[19]            payload[1] description		= (null)
+_computerlevel[19]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[19]            payload[1] organization		= Encore Technologies
+_computerlevel[19]            payload[1] identifier		= 9BF6A71C-5C76-403F-8278-0ECAFA6E3D17
+_computerlevel[19]            payload[1] uuid			= 9BF6A71C-5C76-403F-8278-0ECAFA6E3D17
+_computerlevel[20] attribute: name: CrowdStrike Falcon - System Extension
+_computerlevel[20] attribute: configurationDescription: 
+_computerlevel[20] attribute: installationDate: 2023-02-07 19:23:19 +0000
+_computerlevel[20] attribute: organization: Principal Life Insurance Company
+_computerlevel[20] attribute: profileIdentifier: E0217EB4-0D40-426E-9552-7B4EAA928A54
+_computerlevel[20] attribute: profileUUID: E0217EB4-0D40-426E-9552-7B4EAA928A54
+_computerlevel[20] attribute: profileType: Configuration
+_computerlevel[20] attribute: removalDisallowed: TRUE
+_computerlevel[20] attribute: version: 1
+_computerlevel[20] attribute: containsComputerItems: TRUE
+_computerlevel[20] attribute: installedByMDM: TRUE
+_computerlevel[20] attribute: internaldata: TRUE
+_computerlevel[20] payload count = 1
+_computerlevel[20]            payload[1] name			= System Extensions
+_computerlevel[20]            payload[1] description		= 
+_computerlevel[20]            payload[1] type			= com.apple.system-extension-policy
+_computerlevel[20]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[20]            payload[1] identifier		= 6DE46E11-3ED9-42F5-96E4-7028D6380A8F
+_computerlevel[20]            payload[1] uuid			= 6DE46E11-3ED9-42F5-96E4-7028D6380A8F
+_computerlevel[21] attribute: name: Jamf Connect Notifications
+_computerlevel[21] attribute: configurationDescription: Configures notifications settings for Jamf Connect
+_computerlevel[21] attribute: installationDate: 2023-04-12 21:57:22 +0000
+_computerlevel[21] attribute: organization: Principal Life Insurance Company
+_computerlevel[21] attribute: profileIdentifier: com.jamf.connect.notifications.settings
+_computerlevel[21] attribute: profileUUID: 00000000-0000-0000-A000-5A414D460019
+_computerlevel[21] attribute: profileType: com.apple.notificationsettings
+_computerlevel[21] attribute: removalDisallowed: TRUE
+_computerlevel[21] attribute: version: 1
+_computerlevel[21] attribute: containsComputerItems: TRUE
+_computerlevel[21] attribute: installedByMDM: TRUE
+_computerlevel[21] attribute: internaldata: TRUE
+_computerlevel[21] payload count = 1
+_computerlevel[21]            payload[1] name			= Notifications Payload
+_computerlevel[21]            payload[1] description		= (null)
+_computerlevel[21]            payload[1] type			= com.apple.notificationsettings
+_computerlevel[21]            payload[1] organization		= JAMF Software
+_computerlevel[21]            payload[1] identifier		= 608B3B2A-2F53-4D77-A637-F280287F201F
+_computerlevel[21]            payload[1] uuid			= 608B3B2A-2F53-4D77-A637-F280287F201F
+_computerlevel[22] attribute: name: Nudge - Managed Login Item
+_computerlevel[22] attribute: configurationDescription: 
+_computerlevel[22] attribute: installationDate: 2023-10-31 16:51:04 +0000
+_computerlevel[22] attribute: organization: Principal Life Insurance Company
+_computerlevel[22] attribute: profileIdentifier: C6A5BF78-4AF7-4A3A-BAD4-52D5FFE3DBB2
+_computerlevel[22] attribute: profileUUID: C6A5BF78-4AF7-4A3A-BAD4-52D5FFE3DBB2
+_computerlevel[22] attribute: profileType: Configuration
+_computerlevel[22] attribute: removalDisallowed: TRUE
+_computerlevel[22] attribute: version: 1
+_computerlevel[22] attribute: containsComputerItems: TRUE
+_computerlevel[22] attribute: installedByMDM: TRUE
+_computerlevel[22] attribute: internaldata: TRUE
+_computerlevel[22] payload count = 1
+_computerlevel[22]            payload[1] name			= Managed Login Items
+_computerlevel[22]            payload[1] description		= (null)
+_computerlevel[22]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[22]            payload[1] organization		= JAMF Software
+_computerlevel[22]            payload[1] identifier		= com.apple.servicemanagement.FF240AE6-09AB-4AAB-8EF7-F6746FD12790
+_computerlevel[22]            payload[1] uuid			= FF240AE6-09AB-4AAB-8EF7-F6746FD12790
+_computerlevel[23] attribute: name: Software Update Settings
+_computerlevel[23] attribute: configurationDescription: 
+_computerlevel[23] attribute: installationDate: 2023-10-31 16:50:51 +0000
+_computerlevel[23] attribute: organization: Principal Life Insurance Company
+_computerlevel[23] attribute: profileIdentifier: 8C20F67D-E769-40FB-BFF3-DE06853E5A91
+_computerlevel[23] attribute: profileUUID: 8C20F67D-E769-40FB-BFF3-DE06853E5A91
+_computerlevel[23] attribute: profileType: Configuration
+_computerlevel[23] attribute: removalDisallowed: TRUE
+_computerlevel[23] attribute: version: 1
+_computerlevel[23] attribute: containsComputerItems: TRUE
+_computerlevel[23] attribute: installedByMDM: TRUE
+_computerlevel[23] attribute: internaldata: TRUE
+_computerlevel[23] payload count = 1
+_computerlevel[23]            payload[1] name			= Software Update
+_computerlevel[23]            payload[1] description		= 
+_computerlevel[23]            payload[1] type			= com.apple.SoftwareUpdate
+_computerlevel[23]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[23]            payload[1] identifier		= 3C48D6A2-12D1-42B3-846A-54796996E231
+_computerlevel[23]            payload[1] uuid			= 3C48D6A2-12D1-42B3-846A-54796996E231
+_computerlevel[24] attribute: name: Citrix Workspace - Enable Auto-Update
+_computerlevel[24] attribute: configurationDescription: 
+_computerlevel[24] attribute: installationDate: 2023-04-12 21:58:30 +0000
+_computerlevel[24] attribute: organization: Principal Life Insurance Company
+_computerlevel[24] attribute: profileIdentifier: 0C81CB5A-13F8-45E3-B825-8FEA07872156
+_computerlevel[24] attribute: profileUUID: 0C81CB5A-13F8-45E3-B825-8FEA07872156
+_computerlevel[24] attribute: profileType: Configuration
+_computerlevel[24] attribute: removalDisallowed: TRUE
+_computerlevel[24] attribute: version: 1
+_computerlevel[24] attribute: containsComputerItems: TRUE
+_computerlevel[24] attribute: installedByMDM: TRUE
+_computerlevel[24] attribute: internaldata: TRUE
+_computerlevel[24] payload count = 1
+_computerlevel[24]            payload[1] name			= Custom Settings
+_computerlevel[24]            payload[1] description		= (null)
+_computerlevel[24]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[24]            payload[1] organization		= Encore Technologies
+_computerlevel[24]            payload[1] identifier		= 31525105-4388-4B6D-BE1A-377E7A21E23E
+_computerlevel[24]            payload[1] uuid			= 31525105-4388-4B6D-BE1A-377E7A21E23E
+_computerlevel[25] attribute: name: FS Elliot Pro Font
+_computerlevel[25] attribute: configurationDescription: 
+_computerlevel[25] attribute: installationDate: 2024-03-06 23:19:07 +0000
+_computerlevel[25] attribute: organization: Principal Life Insurance Company
+_computerlevel[25] attribute: profileIdentifier: 415AA39C-6F20-422B-B76C-6750660352C0
+_computerlevel[25] attribute: profileUUID: 415AA39C-6F20-422B-B76C-6750660352C0
+_computerlevel[25] attribute: profileType: Configuration
+_computerlevel[25] attribute: removalDisallowed: TRUE
+_computerlevel[25] attribute: version: 1
+_computerlevel[25] attribute: containsComputerItems: TRUE
+_computerlevel[25] attribute: installedByMDM: TRUE
+_computerlevel[25] attribute: internaldata: TRUE
+_computerlevel[25] payload count = 6
+_computerlevel[25]            payload[1] name			= Font
+_computerlevel[25]            payload[1] description		= 
+_computerlevel[25]            payload[1] type			= com.apple.font
+_computerlevel[25]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[25]            payload[1] identifier		= A50DE135-AD90-4C58-A9D3-9788BE7875CE
+_computerlevel[25]            payload[1] uuid			= A50DE135-AD90-4C58-A9D3-9788BE7875CE
+_computerlevel[25]            payload[2] name			= Font
+_computerlevel[25]            payload[2] description		= 
+_computerlevel[25]            payload[2] type			= com.apple.font
+_computerlevel[25]            payload[2] organization		= Principal Life Insurance Company
+_computerlevel[25]            payload[2] identifier		= D0008ED8-6061-4535-9C73-EA4E3B315FD5
+_computerlevel[25]            payload[2] uuid			= D0008ED8-6061-4535-9C73-EA4E3B315FD5
+_computerlevel[25]            payload[3] name			= Font
+_computerlevel[25]            payload[3] description		= 
+_computerlevel[25]            payload[3] type			= com.apple.font
+_computerlevel[25]            payload[3] organization		= Principal Life Insurance Company
+_computerlevel[25]            payload[3] identifier		= 20739487-E06E-4CC3-9418-8F29AD836A40
+_computerlevel[25]            payload[3] uuid			= 20739487-E06E-4CC3-9418-8F29AD836A40
+_computerlevel[25]            payload[4] name			= Font
+_computerlevel[25]            payload[4] description		= 
+_computerlevel[25]            payload[4] type			= com.apple.font
+_computerlevel[25]            payload[4] organization		= Principal Life Insurance Company
+_computerlevel[25]            payload[4] identifier		= EA205B75-75DD-4797-99A7-6A1D327E0018
+_computerlevel[25]            payload[4] uuid			= EA205B75-75DD-4797-99A7-6A1D327E0018
+_computerlevel[25]            payload[5] name			= Font
+_computerlevel[25]            payload[5] description		= 
+_computerlevel[25]            payload[5] type			= com.apple.font
+_computerlevel[25]            payload[5] organization		= Principal Life Insurance Company
+_computerlevel[25]            payload[5] identifier		= A3C1D223-B6B1-4C5B-BCF6-0A027C971133
+_computerlevel[25]            payload[5] uuid			= A3C1D223-B6B1-4C5B-BCF6-0A027C971133
+_computerlevel[25]            payload[6] name			= Font
+_computerlevel[25]            payload[6] description		= 
+_computerlevel[25]            payload[6] type			= com.apple.font
+_computerlevel[25]            payload[6] organization		= Principal Life Insurance Company
+_computerlevel[25]            payload[6] identifier		= B3B784D1-6C47-4AAA-AB47-7F6B31BB3E7E
+_computerlevel[25]            payload[6] uuid			= B3B784D1-6C47-4AAA-AB47-7F6B31BB3E7E
+_computerlevel[26] attribute: name: Microsoft Edge - Enable Auto-Update
+_computerlevel[26] attribute: configurationDescription: 
+_computerlevel[26] attribute: installationDate: 2024-03-06 21:59:30 +0000
+_computerlevel[26] attribute: organization: Principal Life Insurance Company
+_computerlevel[26] attribute: profileIdentifier: 1899700B-9035-467D-BF0F-FB6C04CBADEC
+_computerlevel[26] attribute: profileUUID: 1899700B-9035-467D-BF0F-FB6C04CBADEC
+_computerlevel[26] attribute: profileType: Configuration
+_computerlevel[26] attribute: removalDisallowed: TRUE
+_computerlevel[26] attribute: version: 1
+_computerlevel[26] attribute: containsComputerItems: TRUE
+_computerlevel[26] attribute: installedByMDM: TRUE
+_computerlevel[26] attribute: internaldata: TRUE
+_computerlevel[26] payload count = 1
+_computerlevel[26]            payload[1] name			= Custom Settings
+_computerlevel[26]            payload[1] description		= (null)
+_computerlevel[26]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[26]            payload[1] organization		= JAMF Software
+_computerlevel[26]            payload[1] identifier		= 166560D5-F48C-4892-A44B-424536D66D60
+_computerlevel[26]            payload[1] uuid			= 166560D5-F48C-4892-A44B-424536D66D60
+_computerlevel[27] attribute: name: Personal Print Manager - Managed Login Item
+_computerlevel[27] attribute: configurationDescription: 
+_computerlevel[27] attribute: installationDate: 2023-11-10 19:56:52 +0000
+_computerlevel[27] attribute: organization: Principal Life Insurance Company
+_computerlevel[27] attribute: profileIdentifier: 152C5094-1723-42AE-8FD5-1D9C620C8239
+_computerlevel[27] attribute: profileUUID: 152C5094-1723-42AE-8FD5-1D9C620C8239
+_computerlevel[27] attribute: profileType: Configuration
+_computerlevel[27] attribute: removalDisallowed: TRUE
+_computerlevel[27] attribute: version: 1
+_computerlevel[27] attribute: containsComputerItems: TRUE
+_computerlevel[27] attribute: installedByMDM: TRUE
+_computerlevel[27] attribute: internaldata: TRUE
+_computerlevel[27] payload count = 1
+_computerlevel[27]            payload[1] name			= Managed Login Items
+_computerlevel[27]            payload[1] description		= (null)
+_computerlevel[27]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[27]            payload[1] organization		= JAMF Software
+_computerlevel[27]            payload[1] identifier		= 30752BA6-3B0A-43D9-8BFF-6B29340F43A7
+_computerlevel[27]            payload[1] uuid			= 30752BA6-3B0A-43D9-8BFF-6B29340F43A7
+_computerlevel[28] attribute: name: Disable Safari Auto-Open Safe Downloads
+_computerlevel[28] attribute: configurationDescription: Disable (and lock) Safari's ability to auto open files once the download is completed.
+_computerlevel[28] attribute: installationDate: 2023-02-07 19:23:39 +0000
+_computerlevel[28] attribute: organization: Principal Life Insurance Company
+_computerlevel[28] attribute: profileIdentifier: 2F0FDE2A-D60E-4387-A665-56E8485767E8
+_computerlevel[28] attribute: profileUUID: 2F0FDE2A-D60E-4387-A665-56E8485767E8
+_computerlevel[28] attribute: profileType: Configuration
+_computerlevel[28] attribute: removalDisallowed: TRUE
+_computerlevel[28] attribute: version: 1
+_computerlevel[28] attribute: containsComputerItems: TRUE
+_computerlevel[28] attribute: installedByMDM: TRUE
+_computerlevel[28] attribute: internaldata: TRUE
+_computerlevel[28] payload count = 1
+_computerlevel[28]            payload[1] name			= Custom Settings
+_computerlevel[28]            payload[1] description		= (null)
+_computerlevel[28]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[28]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[28]            payload[1] identifier		= CE74FD9B-1391-4A75-B5B4-C6B75CD75DB7
+_computerlevel[28]            payload[1] uuid			= CE74FD9B-1391-4A75-B5B4-C6B75CD75DB7
+_computerlevel[29] attribute: name: Jamf Connect PPPC
+_computerlevel[29] attribute: configurationDescription: 
+_computerlevel[29] attribute: installationDate: 2023-04-12 21:57:20 +0000
+_computerlevel[29] attribute: organization: JAMF Software
+_computerlevel[29] attribute: profileIdentifier: com.jamf.connect.login.pppc
+_computerlevel[29] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460015
+_computerlevel[29] attribute: profileType: Configuration
+_computerlevel[29] attribute: removalDisallowed: TRUE
+_computerlevel[29] attribute: version: 1
+_computerlevel[29] attribute: containsComputerItems: TRUE
+_computerlevel[29] attribute: installedByMDM: TRUE
+_computerlevel[29] attribute: internaldata: TRUE
+_computerlevel[29] payload count = 1
+_computerlevel[29]            payload[1] name			= TCC Settings for fdesetup from loginwindow
+_computerlevel[29]            payload[1] description		= 
+_computerlevel[29]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[29]            payload[1] organization		= JAMF Software
+_computerlevel[29]            payload[1] identifier		= com.jamf.connect.login.pppc
+_computerlevel[29]            payload[1] uuid			= 00000000-0000-0000-A000-4A414D460017
+_computerlevel[30] attribute: name: Nudge Settings - 15.4.1
+_computerlevel[30] attribute: configurationDescription: 
+_computerlevel[30] attribute: installationDate: 2025-04-28 15:27:11 +0000
+_computerlevel[30] attribute: organization: Principal Life Insurance Company
+_computerlevel[30] attribute: profileIdentifier: 82FA0F39-84B3-4C8C-A264-794A6F9BE468
+_computerlevel[30] attribute: profileUUID: 82FA0F39-84B3-4C8C-A264-794A6F9BE468
+_computerlevel[30] attribute: profileType: Configuration
+_computerlevel[30] attribute: removalDisallowed: TRUE
+_computerlevel[30] attribute: version: 1
+_computerlevel[30] attribute: containsComputerItems: TRUE
+_computerlevel[30] attribute: installedByMDM: TRUE
+_computerlevel[30] attribute: internaldata: TRUE
+_computerlevel[30] payload count = 1
+_computerlevel[30]            payload[1] name			= Custom Settings
+_computerlevel[30]            payload[1] description		= (null)
+_computerlevel[30]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[30]            payload[1] organization		= JAMF Software
+_computerlevel[30]            payload[1] identifier		= AC3FF9E6-948F-4CE6-82FF-F16654491197
+_computerlevel[30]            payload[1] uuid			= AC3FF9E6-948F-4CE6-82FF-F16654491197
+_computerlevel[31] attribute: name: Suppress Apple Intelligence Notifications
+_computerlevel[31] attribute: configurationDescription: 
+_computerlevel[31] attribute: installationDate: 2025-01-15 15:26:45 +0000
+_computerlevel[31] attribute: organization: Principal Life Insurance Company
+_computerlevel[31] attribute: profileIdentifier: 51D69FEC-F46F-466B-8248-823C877946AE
+_computerlevel[31] attribute: profileUUID: 51D69FEC-F46F-466B-8248-823C877946AE
+_computerlevel[31] attribute: profileType: Configuration
+_computerlevel[31] attribute: removalDisallowed: TRUE
+_computerlevel[31] attribute: version: 1
+_computerlevel[31] attribute: containsComputerItems: TRUE
+_computerlevel[31] attribute: installedByMDM: TRUE
+_computerlevel[31] attribute: internaldata: TRUE
+_computerlevel[31] payload count = 1
+_computerlevel[31]            payload[1] name			= Notifications Payload
+_computerlevel[31]            payload[1] description		= (null)
+_computerlevel[31]            payload[1] type			= com.apple.notificationsettings
+_computerlevel[31]            payload[1] organization		= JAMF Software
+_computerlevel[31]            payload[1] identifier		= 8D78E6D7-4CAA-41DC-804F-29AD24982198
+_computerlevel[31]            payload[1] uuid			= 7B5578BC-11E6-45B1-A84F-61708AD47711
+_computerlevel[32] attribute: name: Configure Jamf Azure AD Connector
+_computerlevel[32] attribute: configurationDescription: 
+_computerlevel[32] attribute: installationDate: 2024-05-06 15:51:53 +0000
+_computerlevel[32] attribute: organization: Principal Life Insurance Company
+_computerlevel[32] attribute: profileIdentifier: 5F918667-702A-4418-910E-226C47B8E044
+_computerlevel[32] attribute: profileUUID: 5F918667-702A-4418-910E-226C47B8E044
+_computerlevel[32] attribute: profileType: Configuration
+_computerlevel[32] attribute: removalDisallowed: TRUE
+_computerlevel[32] attribute: version: 1
+_computerlevel[32] attribute: containsComputerItems: TRUE
+_computerlevel[32] attribute: installedByMDM: TRUE
+_computerlevel[32] attribute: internaldata: TRUE
+_computerlevel[32] payload count = 1
+_computerlevel[32]            payload[1] name			= Custom Settings
+_computerlevel[32]            payload[1] description		= (null)
+_computerlevel[32]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[32]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[32]            payload[1] identifier		= A54BF62C-F986-4D1C-9156-FD95899249CC
+_computerlevel[32]            payload[1] uuid			= A54BF62C-F986-4D1C-9156-FD95899249CC
+_computerlevel[33] attribute: name: Google Chrome - Enable Auto-Update
+_computerlevel[33] attribute: configurationDescription: 
+_computerlevel[33] attribute: installationDate: 2023-03-23 14:37:11 +0000
+_computerlevel[33] attribute: organization: Principal Life Insurance Company
+_computerlevel[33] attribute: profileIdentifier: 02652B03-35A2-4A29-B5A9-EA7CEF517C21
+_computerlevel[33] attribute: profileUUID: 02652B03-35A2-4A29-B5A9-EA7CEF517C21
+_computerlevel[33] attribute: profileType: Configuration
+_computerlevel[33] attribute: removalDisallowed: TRUE
+_computerlevel[33] attribute: version: 1
+_computerlevel[33] attribute: containsComputerItems: TRUE
+_computerlevel[33] attribute: installedByMDM: TRUE
+_computerlevel[33] attribute: internaldata: TRUE
+_computerlevel[33] payload count = 1
+_computerlevel[33]            payload[1] name			= Custom Settings
+_computerlevel[33]            payload[1] description		= (null)
+_computerlevel[33]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[33]            payload[1] organization		= JAMF Software
+_computerlevel[33]            payload[1] identifier		= A6B7998B-E44C-4CD0-93CC-6AB9D233CECE
+_computerlevel[33]            payload[1] uuid			= A6B7998B-E44C-4CD0-93CC-6AB9D233CECE
+_computerlevel[34] attribute: name: Microsoft Enterprise SSO Plug-In
+_computerlevel[34] attribute: configurationDescription: 
+_computerlevel[34] attribute: installationDate: 2024-05-06 15:51:56 +0000
+_computerlevel[34] attribute: organization: Principal Life Insurance Company
+_computerlevel[34] attribute: profileIdentifier: 5489877C-7BF7-4D41-90C0-69C4D8C80153
+_computerlevel[34] attribute: profileUUID: 5489877C-7BF7-4D41-90C0-69C4D8C80153
+_computerlevel[34] attribute: profileType: Configuration
+_computerlevel[34] attribute: removalDisallowed: TRUE
+_computerlevel[34] attribute: version: 1
+_computerlevel[34] attribute: containsComputerItems: TRUE
+_computerlevel[34] attribute: installedByMDM: TRUE
+_computerlevel[34] attribute: internaldata: TRUE
+_computerlevel[34] payload count = 1
+_computerlevel[34]            payload[1] name			= Single Sign-On Extensions Payload
+_computerlevel[34]            payload[1] description		= (null)
+_computerlevel[34]            payload[1] type			= com.apple.extensiblesso
+_computerlevel[34]            payload[1] organization		= JAMF Software
+_computerlevel[34]            payload[1] identifier		= 37A16146-70FB-46A5-9C43-12F510BF0F43
+_computerlevel[34]            payload[1] uuid			= 37A16146-70FB-46A5-9C43-12F510BF0F43
+_computerlevel[35] attribute: name: Principal Financial Group Plan - Jamf Protect Configuration
+_computerlevel[35] attribute: configurationDescription: Jamf Protect Certificates and PPPC Configuration Plans
+_computerlevel[35] attribute: installationDate: 2024-08-22 15:29:14 +0000
+_computerlevel[35] attribute: organization: Jamf Protect
+_computerlevel[35] attribute: profileIdentifier: com.jamf.protect.46862525-9e88-4292-a306-2b928e14705f
+_computerlevel[35] attribute: profileUUID: 46862525-9e88-4292-a306-2b928e14705f
+_computerlevel[35] attribute: profileType: Configuration
+_computerlevel[35] attribute: removalDisallowed: TRUE
+_computerlevel[35] attribute: version: 1
+_computerlevel[35] attribute: containsComputerItems: TRUE
+_computerlevel[35] attribute: installedByMDM: TRUE
+_computerlevel[35] attribute: internaldata: TRUE
+_computerlevel[35] payload count = 7
+_computerlevel[35]            payload[1] name			= Jamf Protect Root CA
+_computerlevel[35]            payload[1] description		= CA Certificate for Jamf Protect
+_computerlevel[35]            payload[1] type			= com.apple.security.root
+_computerlevel[35]            payload[1] organization		= Jamf Protect
+_computerlevel[35]            payload[1] identifier		= 20792caf-9304-4224-b4d5-51f3e1237f26
+_computerlevel[35]            payload[1] uuid			= 20792caf-9304-4224-b4d5-51f3e1237f26
+_computerlevel[35]            payload[2] name			= Jamf Protect System Extension
+_computerlevel[35]            payload[2] description		= Jamf Protect System Extension
+_computerlevel[35]            payload[2] type			= com.apple.system-extension-policy
+_computerlevel[35]            payload[2] organization		= Jamf Protect
+_computerlevel[35]            payload[2] identifier		= 16fdcb26-5f43-4c67-84f1-0eac81c3dd94
+_computerlevel[35]            payload[2] uuid			= 16fdcb26-5f43-4c67-84f1-0eac81c3dd94
+_computerlevel[35]            payload[3] name			= Jamf Protect CSR
+_computerlevel[35]            payload[3] description		= CSR for Jamf Protect
+_computerlevel[35]            payload[3] type			= com.apple.security.pkcs12
+_computerlevel[35]            payload[3] organization		= Jamf Protect
+_computerlevel[35]            payload[3] identifier		= c525dfe4-ae05-4f49-ab3d-d0a0c6f71898
+_computerlevel[35]            payload[3] uuid			= c525dfe4-ae05-4f49-ab3d-d0a0c6f71898
+_computerlevel[35]            payload[4] name			= Jamf Protect PPPC
+_computerlevel[35]            payload[4] description		= Jamf Protect PPPC
+_computerlevel[35]            payload[4] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[35]            payload[4] organization		= Jamf
+_computerlevel[35]            payload[4] identifier		= a013a9a9-e622-4e46-a01e-b36ab8c8575d
+_computerlevel[35]            payload[4] uuid			= a013a9a9-e622-4e46-a01e-b36ab8c8575d
+_computerlevel[35]            payload[5] name			= Managed Login Items - Jamf Apps
+_computerlevel[35]            payload[5] description		= Safelists Jamf apps that run as managed login and background items.
+_computerlevel[35]            payload[5] type			= com.apple.servicemanagement
+_computerlevel[35]            payload[5] organization		= Jamf Protect
+_computerlevel[35]            payload[5] identifier		= com.jamf.servicemanagement.50e8f796-2ac0-40a6-8244-3eb41f7136fe
+_computerlevel[35]            payload[5] uuid			= 50e8f796-2ac0-40a6-8244-3eb41f7136fe
+_computerlevel[35]            payload[6] name			= Jamf Protect Config
+_computerlevel[35]            payload[6] description		= Jamf Protect Plan configuration
+_computerlevel[35]            payload[6] type			= com.apple.ManagedClient.preferences
+_computerlevel[35]            payload[6] organization		= Jamf
+_computerlevel[35]            payload[6] identifier		= bd54ff8e-788c-4e59-9cd3-3c2f21a4fcab
+_computerlevel[35]            payload[6] uuid			= bd54ff8e-788c-4e59-9cd3-3c2f21a4fcab
+_computerlevel[35]            payload[7] name			= Websocket Authentication Certificate
+_computerlevel[35]            payload[7] description		= Certificate for Jamf Protect to be able to communicate over websockets
+_computerlevel[35]            payload[7] type			= com.apple.security.pkcs12
+_computerlevel[35]            payload[7] organization		= Jamf Protect
+_computerlevel[35]            payload[7] identifier		= a5f14545-72e7-4498-8fa4-4293883f7fcd
+_computerlevel[35]            payload[7] uuid			= a5f14545-72e7-4498-8fa4-4293883f7fcd
+_computerlevel[36] attribute: name: DisplayLink Accessibility
+_computerlevel[36] attribute: configurationDescription: 
+_computerlevel[36] attribute: installationDate: 2023-02-07 19:23:52 +0000
+_computerlevel[36] attribute: organization: Principal Life Insurance Company
+_computerlevel[36] attribute: profileIdentifier: A0860BC3-F282-4E75-80FA-953B1F4F434C
+_computerlevel[36] attribute: profileUUID: A0860BC3-F282-4E75-80FA-953B1F4F434C
+_computerlevel[36] attribute: profileType: com.apple.TCC.configuration-profile-policy
+_computerlevel[36] attribute: removalDisallowed: TRUE
+_computerlevel[36] attribute: version: 1
+_computerlevel[36] attribute: containsComputerItems: TRUE
+_computerlevel[36] attribute: installedByMDM: TRUE
+_computerlevel[36] attribute: internaldata: TRUE
+_computerlevel[36] payload count = 1
+_computerlevel[36]            payload[1] name			= DisplayLink Accessiblity PPPC Profile
+_computerlevel[36]            payload[1] description		= DisplayLink Accessiblity PPPC Profile
+_computerlevel[36]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[36]            payload[1] organization		= Encore Technologies
+_computerlevel[36]            payload[1] identifier		= A08C41F1-19A2-42E2-A476-92DBA7738163
+_computerlevel[36]            payload[1] uuid			= 612E5B70-9ED8-46EB-AB68-3904C0DD2A3B
+_computerlevel[37] attribute: name: Jamf Notifications
+_computerlevel[37] attribute: configurationDescription: Configures notifications settings for apps
+_computerlevel[37] attribute: installationDate: 2023-02-07 19:22:05 +0000
+_computerlevel[37] attribute: organization: Principal Life Insurance Company
+_computerlevel[37] attribute: profileIdentifier: com.jamf.notifications.settings
+_computerlevel[37] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460014
+_computerlevel[37] attribute: profileType: com.apple.notificationsettings
+_computerlevel[37] attribute: removalDisallowed: TRUE
+_computerlevel[37] attribute: version: 1
+_computerlevel[37] attribute: containsComputerItems: TRUE
+_computerlevel[37] attribute: installedByMDM: TRUE
+_computerlevel[37] attribute: internaldata: TRUE
+_computerlevel[37] payload count = 1
+_computerlevel[37]            payload[1] name			= Notifications Payload
+_computerlevel[37]            payload[1] description		= (null)
+_computerlevel[37]            payload[1] type			= com.apple.notificationsettings
+_computerlevel[37]            payload[1] organization		= JAMF Software
+_computerlevel[37]            payload[1] identifier		= ADA49041-53D3-4596-8A30-3243B631603D
+_computerlevel[37]            payload[1] uuid			= ADA49041-53D3-4596-8A30-3243B631603D
+_computerlevel[38] attribute: name: PFG Default Restrictions - macOS 15
+_computerlevel[38] attribute: configurationDescription: 
+_computerlevel[38] attribute: installationDate: 2024-11-11 22:27:34 +0000
+_computerlevel[38] attribute: organization: Principal Life Insurance Company
+_computerlevel[38] attribute: profileIdentifier: 6DB0E33F-D2B1-4146-95D9-204CEF37EC6F
+_computerlevel[38] attribute: profileUUID: 6DB0E33F-D2B1-4146-95D9-204CEF37EC6F
+_computerlevel[38] attribute: profileType: Configuration
+_computerlevel[38] attribute: removalDisallowed: TRUE
+_computerlevel[38] attribute: version: 1
+_computerlevel[38] attribute: containsComputerItems: TRUE
+_computerlevel[38] attribute: installedByMDM: TRUE
+_computerlevel[38] attribute: internaldata: TRUE
+_computerlevel[38] payload count = 15
+_computerlevel[38]            payload[1] name			= Restrictions
+_computerlevel[38]            payload[1] description		= 
+_computerlevel[38]            payload[1] type			= com.apple.ShareKitHelper
+_computerlevel[38]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[1] identifier		= 5B897E5E-809A-4BCE-80FB-C07E8499E951
+_computerlevel[38]            payload[1] uuid			= 5B897E5E-809A-4BCE-80FB-C07E8499E951
+_computerlevel[38]            payload[2] name			= Media Access
+_computerlevel[38]            payload[2] description		= 
+_computerlevel[38]            payload[2] type			= com.apple.systemuiserver
+_computerlevel[38]            payload[2] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[2] identifier		= E02CED9A-2E1A-4594-9776-5615B8CD41C9
+_computerlevel[38]            payload[2] uuid			= E02CED9A-2E1A-4594-9776-5615B8CD41C9
+_computerlevel[38]            payload[3] name			= Restrictions
+_computerlevel[38]            payload[3] description		= 
+_computerlevel[38]            payload[3] type			= com.apple.applicationaccess
+_computerlevel[38]            payload[3] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[3] identifier		= 914B95FA-E19A-4479-B6E0-E9ADC67BA4A8
+_computerlevel[38]            payload[3] uuid			= 914B95FA-E19A-4479-B6E0-E9ADC67BA4A8
+_computerlevel[38]            payload[4] name			= MCX
+_computerlevel[38]            payload[4] description		= 
+_computerlevel[38]            payload[4] type			= com.apple.MCX
+_computerlevel[38]            payload[4] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[4] identifier		= 35E0C6AE-11C5-460A-90BA-AE43F775BFD9
+_computerlevel[38]            payload[4] uuid			= 35E0C6AE-11C5-460A-90BA-AE43F775BFD9
+_computerlevel[38]            payload[5] name			= Application Restrictions
+_computerlevel[38]            payload[5] description		= 
+_computerlevel[38]            payload[5] type			= com.apple.applicationaccess.new
+_computerlevel[38]            payload[5] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[5] identifier		= BF13EBA6-EDEA-40BE-BA25-84DFB0D8F593
+_computerlevel[38]            payload[5] uuid			= BF13EBA6-EDEA-40BE-BA25-84DFB0D8F593
+_computerlevel[38]            payload[6] name			= App Store
+_computerlevel[38]            payload[6] description		= 
+_computerlevel[38]            payload[6] type			= com.apple.appstore
+_computerlevel[38]            payload[6] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[6] identifier		= 24D86935-6931-424E-9CE6-C8045D434432
+_computerlevel[38]            payload[6] uuid			= 24D86935-6931-424E-9CE6-C8045D434432
+_computerlevel[38]            payload[7] name			= Media Access:  Finder Settings
+_computerlevel[38]            payload[7] description		= 
+_computerlevel[38]            payload[7] type			= com.apple.finder
+_computerlevel[38]            payload[7] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[7] identifier		= B7D2A9A0-AACE-4541-8217-9525EC561403
+_computerlevel[38]            payload[7] uuid			= B7D2A9A0-AACE-4541-8217-9525EC561403
+_computerlevel[38]            payload[8] name			= System Preferences
+_computerlevel[38]            payload[8] description		= 
+_computerlevel[38]            payload[8] type			= com.apple.systempreferences
+_computerlevel[38]            payload[8] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[8] identifier		= 3D9A290D-E1E5-41CD-9337-D80F0EBBC7B4
+_computerlevel[38]            payload[8] uuid			= 3D9A290D-E1E5-41CD-9337-D80F0EBBC7B4
+_computerlevel[38]            payload[9] name			= Desktop
+_computerlevel[38]            payload[9] description		= 
+_computerlevel[38]            payload[9] type			= com.apple.desktop
+_computerlevel[38]            payload[9] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[9] identifier		= 8E38B0CB-CE47-4920-A914-8912937837B3
+_computerlevel[38]            payload[9] uuid			= 8E38B0CB-CE47-4920-A914-8912937837B3
+_computerlevel[38]            payload[10] name			= Dashboard Widget Restrictions
+_computerlevel[38]            payload[10] description		= 
+_computerlevel[38]            payload[10] type			= com.apple.dashboard
+_computerlevel[38]            payload[10] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[10] identifier		= 652754F2-7422-4966-A82E-13F24863FEFF
+_computerlevel[38]            payload[10] uuid			= 652754F2-7422-4966-A82E-13F24863FEFF
+_computerlevel[38]            payload[11] name			= FileProvider
+_computerlevel[38]            payload[11] description		= 
+_computerlevel[38]            payload[11] type			= com.apple.fileproviderd
+_computerlevel[38]            payload[11] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[11] identifier		= AFA73AAB-4098-4602-8674-B7139D1CF6A9
+_computerlevel[38]            payload[11] uuid			= AFA73AAB-4098-4602-8674-B7139D1CF6A9
+_computerlevel[38]            payload[12] name			= CoreMediaIO Support
+_computerlevel[38]            payload[12] description		= 
+_computerlevel[38]            payload[12] type			= com.apple.coremediaio.support
+_computerlevel[38]            payload[12] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[12] identifier		= 3813F39A-2548-4F39-9404-AF5756A49BFD
+_computerlevel[38]            payload[12] uuid			= 3813F39A-2548-4F39-9404-AF5756A49BFD
+_computerlevel[38]            payload[13] name			= Game Center
+_computerlevel[38]            payload[13] description		= 
+_computerlevel[38]            payload[13] type			= com.apple.gamed
+_computerlevel[38]            payload[13] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[13] identifier		= 5A428CFD-FFF0-4067-9977-FA447B7B6165
+_computerlevel[38]            payload[13] uuid			= 5A428CFD-FFF0-4067-9977-FA447B7B6165
+_computerlevel[38]            payload[14] name			= Media Access:  Disc Recording
+_computerlevel[38]            payload[14] description		= 
+_computerlevel[38]            payload[14] type			= com.apple.DiscRecording
+_computerlevel[38]            payload[14] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[14] identifier		= 84F51A51-39BC-44DD-91B5-BF8022F8242A
+_computerlevel[38]            payload[14] uuid			= 84F51A51-39BC-44DD-91B5-BF8022F8242A
+_computerlevel[38]            payload[15] name			= User Preferences
+_computerlevel[38]            payload[15] description		= 
+_computerlevel[38]            payload[15] type			= com.apple.preferences.users
+_computerlevel[38]            payload[15] organization		= Principal Life Insurance Company
+_computerlevel[38]            payload[15] identifier		= 15E25723-E612-4A62-8196-CCEF19BCC41D
+_computerlevel[38]            payload[15] uuid			= 15E25723-E612-4A62-8196-CCEF19BCC41D
+_computerlevel[39] attribute: name: SysTrack - Full Disk Access
+_computerlevel[39] attribute: configurationDescription: 
+_computerlevel[39] attribute: installationDate: 2023-02-07 19:23:30 +0000
+_computerlevel[39] attribute: organization: Principal Life Insurance Company
+_computerlevel[39] attribute: profileIdentifier: BA6D29A0-164E-43EE-B461-AC4CCE8F44E2
+_computerlevel[39] attribute: profileUUID: BA6D29A0-164E-43EE-B461-AC4CCE8F44E2
+_computerlevel[39] attribute: profileType: Configuration
+_computerlevel[39] attribute: removalDisallowed: TRUE
+_computerlevel[39] attribute: version: 1
+_computerlevel[39] attribute: containsComputerItems: TRUE
+_computerlevel[39] attribute: installedByMDM: TRUE
+_computerlevel[39] attribute: internaldata: TRUE
+_computerlevel[39] payload count = 1
+_computerlevel[39]            payload[1] name			= Privacy Preferences Policy Control
+_computerlevel[39]            payload[1] description		= 
+_computerlevel[39]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[39]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[39]            payload[1] identifier		= 6E72BEB6-373A-463D-A3AD-AF53D7BB9DF0
+_computerlevel[39]            payload[1] uuid			= 6E72BEB6-373A-463D-A3AD-AF53D7BB9DF0
+_computerlevel[40] attribute: name: CrowdStrike Falcon - Customer ID
+_computerlevel[40] attribute: configurationDescription: 
+_computerlevel[40] attribute: installationDate: 2023-02-07 19:23:20 +0000
+_computerlevel[40] attribute: organization: Principal Life Insurance Company
+_computerlevel[40] attribute: profileIdentifier: 931FFF90-897E-47F4-AF38-1F457FA9DB82
+_computerlevel[40] attribute: profileUUID: 931FFF90-897E-47F4-AF38-1F457FA9DB82
+_computerlevel[40] attribute: profileType: Configuration
+_computerlevel[40] attribute: removalDisallowed: TRUE
+_computerlevel[40] attribute: version: 1
+_computerlevel[40] attribute: containsComputerItems: TRUE
+_computerlevel[40] attribute: installedByMDM: TRUE
+_computerlevel[40] attribute: internaldata: TRUE
+_computerlevel[40] payload count = 1
+_computerlevel[40]            payload[1] name			= Custom Settings
+_computerlevel[40]            payload[1] description		= (null)
+_computerlevel[40]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[40]            payload[1] organization		= JAMF Software
+_computerlevel[40]            payload[1] identifier		= DB693E7B-AC24-4D28-9167-EFE04B3CAA42
+_computerlevel[40]            payload[1] uuid			= DB693E7B-AC24-4D28-9167-EFE04B3CAA42
+_computerlevel[41] attribute: name: Google Chrome Settings
+_computerlevel[41] attribute: configurationDescription: 
+_computerlevel[41] attribute: installationDate: 2023-02-07 19:23:37 +0000
+_computerlevel[41] attribute: organization: Principal Life Insurance Company
+_computerlevel[41] attribute: profileIdentifier: CED6C212-98F7-4CB2-8C9F-5419331DFE62
+_computerlevel[41] attribute: profileUUID: CED6C212-98F7-4CB2-8C9F-5419331DFE62
+_computerlevel[41] attribute: profileType: Configuration
+_computerlevel[41] attribute: removalDisallowed: TRUE
+_computerlevel[41] attribute: version: 1
+_computerlevel[41] attribute: containsComputerItems: TRUE
+_computerlevel[41] attribute: installedByMDM: TRUE
+_computerlevel[41] attribute: internaldata: TRUE
+_computerlevel[41] payload count = 1
+_computerlevel[41]            payload[1] name			= Custom Settings
+_computerlevel[41]            payload[1] description		= (null)
+_computerlevel[41]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[41]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[41]            payload[1] identifier		= 81338B79-1498-4B03-9905-C47E6762CA6E
+_computerlevel[41]            payload[1] uuid			= 81338B79-1498-4B03-9905-C47E6762CA6E
+_computerlevel[42] attribute: name: Microsoft Office - Automatic Download and Installation (Prod)
+_computerlevel[42] attribute: configurationDescription: Enables Automatic Download and Installation of Microsoft Office Updates from the Production Manifest on TLS 05/09/17ech
+_computerlevel[42] attribute: installationDate: 2024-06-12 14:48:42 +0000
+_computerlevel[42] attribute: organization: Principal Life Insurance Company
+_computerlevel[42] attribute: profileIdentifier: 755D9F10-58E2-4770-8C8F-B7CC9F2C1366
+_computerlevel[42] attribute: profileUUID: 755D9F10-58E2-4770-8C8F-B7CC9F2C1366
+_computerlevel[42] attribute: profileType: Configuration
+_computerlevel[42] attribute: removalDisallowed: FALSE
+_computerlevel[42] attribute: version: 1
+_computerlevel[42] attribute: containsComputerItems: TRUE
+_computerlevel[42] attribute: installedByMDM: TRUE
+_computerlevel[42] attribute: internaldata: TRUE
+_computerlevel[42] payload count = 1
+_computerlevel[42]            payload[1] name			= Custom Settings
+_computerlevel[42]            payload[1] description		= (null)
+_computerlevel[42]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[42]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[42]            payload[1] identifier		= MCXToProfile.67ad2621-b510-4060-b971-7f7cf51506c9.alacarte.customsettings.c00e472d-4cb4-4231-8fd4-c7fa866efc00
+_computerlevel[42]            payload[1] uuid			= c00e472d-4cb4-4231-8fd4-c7fa866efc00
+_computerlevel[43] attribute: name: Privacy Preferences Policy Control
+_computerlevel[43] attribute: configurationDescription: Profile for Jamf management framework
+_computerlevel[43] attribute: installationDate: 2023-02-07 19:22:04 +0000
+_computerlevel[43] attribute: organization: Jamf Software
+_computerlevel[43] attribute: profileIdentifier: com.jamfsoftware.tcc.management
+_computerlevel[43] attribute: profileUUID: com.jamfsoftware.tcc.management
+_computerlevel[43] attribute: profileType: Configuration
+_computerlevel[43] attribute: removalDisallowed: TRUE
+_computerlevel[43] attribute: version: 1
+_computerlevel[43] attribute: containsComputerItems: TRUE
+_computerlevel[43] attribute: installedByMDM: TRUE
+_computerlevel[43] attribute: internaldata: TRUE
+_computerlevel[43] payload count = 1
+_computerlevel[43]            payload[1] name			= Privacy Preferences Policy Control
+_computerlevel[43]            payload[1] description		= Profile for Jamf management framework
+_computerlevel[43]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[43]            payload[1] organization		= Jamf Software
+_computerlevel[43]            payload[1] identifier		= com.jamfsoftware.tcc.management
+_computerlevel[43]            payload[1] uuid			= 00000000-0000-0000-A000-4A414D460010
+_computerlevel[44] attribute: name: Enable Secure Keyboard Entry in Terminal
+_computerlevel[44] attribute: configurationDescription: 
+_computerlevel[44] attribute: installationDate: 2023-02-07 19:23:47 +0000
+_computerlevel[44] attribute: organization: Principal Life Insurance Company
+_computerlevel[44] attribute: profileIdentifier: C9070AB1-C764-4958-9B0E-EC965DDF82C1
+_computerlevel[44] attribute: profileUUID: C9070AB1-C764-4958-9B0E-EC965DDF82C1
+_computerlevel[44] attribute: profileType: Configuration
+_computerlevel[44] attribute: removalDisallowed: TRUE
+_computerlevel[44] attribute: version: 1
+_computerlevel[44] attribute: containsComputerItems: TRUE
+_computerlevel[44] attribute: installedByMDM: TRUE
+_computerlevel[44] attribute: internaldata: TRUE
+_computerlevel[44] payload count = 1
+_computerlevel[44]            payload[1] name			= Custom Settings
+_computerlevel[44]            payload[1] description		= (null)
+_computerlevel[44]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[44]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[44]            payload[1] identifier		= DF27C243-9478-451A-BAEC-009F1B0268B5
+_computerlevel[44]            payload[1] uuid			= DF27C243-9478-451A-BAEC-009F1B0268B5
+_computerlevel[45] attribute: name: Jamf Protect - Non-Removal System Extension
+_computerlevel[45] attribute: configurationDescription: 
+_computerlevel[45] attribute: installationDate: 2024-11-11 22:27:27 +0000
+_computerlevel[45] attribute: organization: Principal Life Insurance Company
+_computerlevel[45] attribute: profileIdentifier: 5544D54B-D8BB-4873-8A2E-8360FD45F618
+_computerlevel[45] attribute: profileUUID: 5544D54B-D8BB-4873-8A2E-8360FD45F618
+_computerlevel[45] attribute: profileType: Configuration
+_computerlevel[45] attribute: removalDisallowed: TRUE
+_computerlevel[45] attribute: version: 1
+_computerlevel[45] attribute: containsComputerItems: TRUE
+_computerlevel[45] attribute: installedByMDM: TRUE
+_computerlevel[45] attribute: internaldata: TRUE
+_computerlevel[45] payload count = 1
+_computerlevel[45]            payload[1] name			= System Extensions
+_computerlevel[45]            payload[1] description		= 
+_computerlevel[45]            payload[1] type			= com.apple.system-extension-policy
+_computerlevel[45]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[45]            payload[1] identifier		= DE737B43-81E0-46CA-B7DB-26A704959D8A
+_computerlevel[45]            payload[1] uuid			= DE737B43-81E0-46CA-B7DB-26A704959D8A
+_computerlevel[46] attribute: name: PFG-Network (No MAC Address Randomization)
+_computerlevel[46] attribute: configurationDescription: 
+_computerlevel[46] attribute: installationDate: 2024-12-20 15:27:38 +0000
+_computerlevel[46] attribute: organization: Principal Life Insurance Company
+_computerlevel[46] attribute: profileIdentifier: 9AC9DD6A-7A85-48D5-A31E-361604E5A094
+_computerlevel[46] attribute: profileUUID: 9AC9DD6A-7A85-48D5-A31E-361604E5A094
+_computerlevel[46] attribute: profileType: Configuration
+_computerlevel[46] attribute: removalDisallowed: TRUE
+_computerlevel[46] attribute: version: 1
+_computerlevel[46] attribute: containsComputerItems: TRUE
+_computerlevel[46] attribute: installedByMDM: TRUE
+_computerlevel[46] attribute: internaldata: TRUE
+_computerlevel[46] payload count = 5
+_computerlevel[46]            payload[1] name			= PFGIssuingCA6
+_computerlevel[46]            payload[1] description		= 
+_computerlevel[46]            payload[1] type			= com.apple.security.pkcs1
+_computerlevel[46]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[46]            payload[1] identifier		= 402D82A8-94DE-43A6-B205-8AEDB88ECEF9
+_computerlevel[46]            payload[1] uuid			= 402D82A8-94DE-43A6-B205-8AEDB88ECEF9
+_computerlevel[46]            payload[2] name			= WiFi (PFG-Network)
+_computerlevel[46]            payload[2] description		= 
+_computerlevel[46]            payload[2] type			= com.apple.wifi.managed
+_computerlevel[46]            payload[2] organization		= Principal Life Insurance Company
+_computerlevel[46]            payload[2] identifier		= 87790825-5406-4B74-AE42-D182DBF64193
+_computerlevel[46]            payload[2] uuid			= 87790825-5406-4B74-AE42-D182DBF64193
+_computerlevel[46]            payload[3] name			= Principal Root CA G2
+_computerlevel[46]            payload[3] description		= 
+_computerlevel[46]            payload[3] type			= com.apple.security.root
+_computerlevel[46]            payload[3] organization		= Principal Life Insurance Company
+_computerlevel[46]            payload[3] identifier		= B9195235-8722-4483-8E5B-35A7A6BE7378
+_computerlevel[46]            payload[3] uuid			= B9195235-8722-4483-8E5B-35A7A6BE7378
+_computerlevel[46]            payload[4] name			= SCEP (Principal Issuing CA6 Class 2 G2)
+_computerlevel[46]            payload[4] description		= 
+_computerlevel[46]            payload[4] type			= com.apple.security.scep
+_computerlevel[46]            payload[4] organization		= Principal Life Insurance Company
+_computerlevel[46]            payload[4] identifier		= F5F3FB60-C531-438B-AE70-67C1DD51BE42
+_computerlevel[46]            payload[4] uuid			= F5F3FB60-C531-438B-AE70-67C1DD51BE42
+_computerlevel[46]            payload[5] name			= PFGIssuingCA5
+_computerlevel[46]            payload[5] description		= 
+_computerlevel[46]            payload[5] type			= com.apple.security.pkcs1
+_computerlevel[46]            payload[5] organization		= Principal Life Insurance Company
+_computerlevel[46]            payload[5] identifier		= 7F835FF0-00D0-4FFD-BFB2-4BD3AF26417F
+_computerlevel[46]            payload[5] uuid			= 7F835FF0-00D0-4FFD-BFB2-4BD3AF26417F
+_computerlevel[47] attribute: name: TeamViewer QuickSupport - Accessibility
+_computerlevel[47] attribute: configurationDescription: Allow Accessibily on TeamViewer QuickSupport.
+_computerlevel[47] attribute: installationDate: 2023-02-07 19:23:04 +0000
+_computerlevel[47] attribute: organization: Principal Life Insurance Company
+_computerlevel[47] attribute: profileIdentifier: BEE208B1-36C5-4197-9E1B-ADEB22C5D33E
+_computerlevel[47] attribute: profileUUID: BEE208B1-36C5-4197-9E1B-ADEB22C5D33E
+_computerlevel[47] attribute: profileType: Configuration
+_computerlevel[47] attribute: removalDisallowed: TRUE
+_computerlevel[47] attribute: version: 1
+_computerlevel[47] attribute: containsComputerItems: TRUE
+_computerlevel[47] attribute: installedByMDM: TRUE
+_computerlevel[47] attribute: internaldata: TRUE
+_computerlevel[47] payload count = 1
+_computerlevel[47]            payload[1] name			= Privacy Preferences Policy Control
+_computerlevel[47]            payload[1] description		= 
+_computerlevel[47]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[47]            payload[1] organization		= Encore Technologies
+_computerlevel[47]            payload[1] identifier		= 1DC7F3EF-B1CD-4567-BD58-B709B3C76C7A
+_computerlevel[47]            payload[1] uuid			= 1DC7F3EF-B1CD-4567-BD58-B709B3C76C7A
+_computerlevel[48] attribute: name: CrowdStrike Falcon - Full Disk Access
+_computerlevel[48] attribute: configurationDescription: 
+_computerlevel[48] attribute: installationDate: 2023-02-07 19:23:19 +0000
+_computerlevel[48] attribute: organization: Principal Life Insurance Company
+_computerlevel[48] attribute: profileIdentifier: E5EC99EC-2382-4281-A533-1AD46ECB5A38
+_computerlevel[48] attribute: profileUUID: E5EC99EC-2382-4281-A533-1AD46ECB5A38
+_computerlevel[48] attribute: profileType: Configuration
+_computerlevel[48] attribute: removalDisallowed: TRUE
+_computerlevel[48] attribute: version: 1
+_computerlevel[48] attribute: containsComputerItems: TRUE
+_computerlevel[48] attribute: installedByMDM: TRUE
+_computerlevel[48] attribute: internaldata: TRUE
+_computerlevel[48] payload count = 1
+_computerlevel[48]            payload[1] name			= Privacy Preferences Policy Control
+_computerlevel[48]            payload[1] description		= 
+_computerlevel[48]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[48]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[48]            payload[1] identifier		= 659978E1-3B46-4129-9743-D4E24A261F4E
+_computerlevel[48]            payload[1] uuid			= 659978E1-3B46-4129-9743-D4E24A261F4E
+_computerlevel[49] attribute: name: Jamf Conditional Access Migrator - Managed Login Item
+_computerlevel[49] attribute: configurationDescription: 
+_computerlevel[49] attribute: installationDate: 2024-08-12 15:06:40 +0000
+_computerlevel[49] attribute: organization: Principal Life Insurance Company
+_computerlevel[49] attribute: profileIdentifier: 613A587B-070B-4A8A-AD0D-90179F5234D0
+_computerlevel[49] attribute: profileUUID: 613A587B-070B-4A8A-AD0D-90179F5234D0
+_computerlevel[49] attribute: profileType: Configuration
+_computerlevel[49] attribute: removalDisallowed: TRUE
+_computerlevel[49] attribute: version: 1
+_computerlevel[49] attribute: containsComputerItems: TRUE
+_computerlevel[49] attribute: installedByMDM: TRUE
+_computerlevel[49] attribute: internaldata: TRUE
+_computerlevel[49] payload count = 1
+_computerlevel[49]            payload[1] name			= Managed Login Items
+_computerlevel[49]            payload[1] description		= (null)
+_computerlevel[49]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[49]            payload[1] organization		= JAMF Software
+_computerlevel[49]            payload[1] identifier		= AF58BBCB-AE90-42BA-AA4A-2E51332A093A
+_computerlevel[49]            payload[1] uuid			= AF58BBCB-AE90-42BA-AA4A-2E51332A093A
+_computerlevel[50] attribute: name: Microsoft Office - Managed Login Item
+_computerlevel[50] attribute: configurationDescription: Ensures that Microsoft's Licensing Helper, OneDrive, and any future Microsoft products start automatically at login and the LaunchAgents cannot be disabled. WARNING - This resource is managed by Puppet and as such, any manual edits will be overwritten.
+_computerlevel[50] attribute: installationDate: 2024-07-08 19:41:59 +0000
+_computerlevel[50] attribute: organization: Principal Life Insurance Company
+_computerlevel[50] attribute: profileIdentifier: C49B1346-67D1-4918-A88D-295AA85D54D4
+_computerlevel[50] attribute: profileUUID: C49B1346-67D1-4918-A88D-295AA85D54D4
+_computerlevel[50] attribute: profileType: Configuration
+_computerlevel[50] attribute: removalDisallowed: TRUE
+_computerlevel[50] attribute: version: 1
+_computerlevel[50] attribute: containsComputerItems: TRUE
+_computerlevel[50] attribute: installedByMDM: TRUE
+_computerlevel[50] attribute: internaldata: TRUE
+_computerlevel[50] payload count = 1
+_computerlevel[50]            payload[1] name			= Managed Login Items
+_computerlevel[50]            payload[1] description		= (null)
+_computerlevel[50]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[50]            payload[1] organization		= JAMF Software
+_computerlevel[50]            payload[1] identifier		= 55761B60-0EEF-443C-96D6-45027C1AD56F
+_computerlevel[50]            payload[1] uuid			= 55761B60-0EEF-443C-96D6-45027C1AD56F
+_computerlevel[51] attribute: name: Proofpoint DLP - Full Disk Access and Accessibility
+_computerlevel[51] attribute: configurationDescription: 
+_computerlevel[51] attribute: installationDate: 2024-03-04 23:17:47 +0000
+_computerlevel[51] attribute: organization: Principal Life Insurance Company
+_computerlevel[51] attribute: profileIdentifier: 53E79E1A-EA49-4963-B866-B18A8062F52A
+_computerlevel[51] attribute: profileUUID: 53E79E1A-EA49-4963-B866-B18A8062F52A
+_computerlevel[51] attribute: profileType: com.apple.TCC.configuration-profile-policy
+_computerlevel[51] attribute: removalDisallowed: TRUE
+_computerlevel[51] attribute: version: 1
+_computerlevel[51] attribute: containsComputerItems: TRUE
+_computerlevel[51] attribute: installedByMDM: TRUE
+_computerlevel[51] attribute: internaldata: TRUE
+_computerlevel[51] payload count = 1
+_computerlevel[51]            payload[1] name			= PEA Viewer macOS 11
+_computerlevel[51]            payload[1] description		= PEA Viewer Trusted Profile
+_computerlevel[51]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[51]            payload[1] organization		= PEA
+_computerlevel[51]            payload[1] identifier		= 991FBBFF-A871-4D50-BC96-E0FAECA26905
+_computerlevel[51]            payload[1] uuid			= 991FBBFF-A871-4D50-BC96-E0FAECA26905
+_computerlevel[52] attribute: name: Allow Notifier Notifications
+_computerlevel[52] attribute: configurationDescription: 
+_computerlevel[52] attribute: installationDate: 2023-02-07 19:23:09 +0000
+_computerlevel[52] attribute: organization: Principal Life Insurance Company
+_computerlevel[52] attribute: profileIdentifier: F775B843-0B1E-4A3A-BBA7-0A823603AD1F
+_computerlevel[52] attribute: profileUUID: F775B843-0B1E-4A3A-BBA7-0A823603AD1F
+_computerlevel[52] attribute: profileType: Configuration
+_computerlevel[52] attribute: removalDisallowed: TRUE
+_computerlevel[52] attribute: version: 1
+_computerlevel[52] attribute: containsComputerItems: TRUE
+_computerlevel[52] attribute: installedByMDM: TRUE
+_computerlevel[52] attribute: internaldata: TRUE
+_computerlevel[52] payload count = 1
+_computerlevel[52]            payload[1] name			= Notifications Payload
+_computerlevel[52]            payload[1] description		= (null)
+_computerlevel[52]            payload[1] type			= com.apple.notificationsettings
+_computerlevel[52]            payload[1] organization		= JAMF Software
+_computerlevel[52]            payload[1] identifier		= 1D984B2D-B63F-4994-BF3E-9704C4789D88
+_computerlevel[52]            payload[1] uuid			= 7446395C-FED3-4DE4-AEB4-F7406EC68A26
+_computerlevel[53] attribute: name: Encore Auto-Update - Full Disk Access
+_computerlevel[53] attribute: configurationDescription: 
+_computerlevel[53] attribute: installationDate: 2023-10-31 16:51:06 +0000
+_computerlevel[53] attribute: organization: Principal Life Insurance Company
+_computerlevel[53] attribute: profileIdentifier: F24512B3-D24B-4AC2-8C17-158BF33E1815
+_computerlevel[53] attribute: profileUUID: F24512B3-D24B-4AC2-8C17-158BF33E1815
+_computerlevel[53] attribute: profileType: Configuration
+_computerlevel[53] attribute: removalDisallowed: TRUE
+_computerlevel[53] attribute: version: 1
+_computerlevel[53] attribute: containsComputerItems: TRUE
+_computerlevel[53] attribute: installedByMDM: TRUE
+_computerlevel[53] attribute: internaldata: TRUE
+_computerlevel[53] payload count = 1
+_computerlevel[53]            payload[1] name			= Privacy Preferences Policy Control
+_computerlevel[53]            payload[1] description		= 
+_computerlevel[53]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[53]            payload[1] organization		= Encore Technologies
+_computerlevel[53]            payload[1] identifier		= EC4E757B-CEC5-4820-BD54-B81C439C6A86
+_computerlevel[53]            payload[1] uuid			= EC4E757B-CEC5-4820-BD54-B81C439C6A86
+_computerlevel[54] attribute: name: Jamf Protect PPPC and System Extension
+_computerlevel[54] attribute: configurationDescription: 
+_computerlevel[54] attribute: installationDate: 2023-02-15 17:17:24 +0000
+_computerlevel[54] attribute: organization: Jamf
+_computerlevel[54] attribute: profileIdentifier: com.jamf.protect.daemon.pppc
+_computerlevel[54] attribute: profileUUID: 00000000-0000-0000-A000-6A414D460016
+_computerlevel[54] attribute: profileType: Configuration
+_computerlevel[54] attribute: removalDisallowed: TRUE
+_computerlevel[54] attribute: version: 1
+_computerlevel[54] attribute: containsComputerItems: TRUE
+_computerlevel[54] attribute: installedByMDM: TRUE
+_computerlevel[54] attribute: internaldata: TRUE
+_computerlevel[54] payload count = 2
+_computerlevel[54]            payload[1] name			= Jamf Protect PPPC
+_computerlevel[54]            payload[1] description		= 
+_computerlevel[54]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[54]            payload[1] organization		= Jamf
+_computerlevel[54]            payload[1] identifier		= com.jamf.protect.daemon.pppc
+_computerlevel[54]            payload[1] uuid			= 00000000-0000-0000-A000-4A414D460018
+_computerlevel[54]            payload[2] name			= Jamf Protect System Extensions
+_computerlevel[54]            payload[2] description		= 
+_computerlevel[54]            payload[2] type			= com.apple.system-extension-policy
+_computerlevel[54]            payload[2] organization		= Jamf
+_computerlevel[54]            payload[2] identifier		= com.jamf.protect.daemon.systemextension
+_computerlevel[54]            payload[2] uuid			= 00000000-0000-0000-A000-5A414D460018
+_computerlevel[55] attribute: name: PFGIssuingCA5
+_computerlevel[55] attribute: configurationDescription: 
+_computerlevel[55] attribute: installationDate: 2023-02-07 19:23:03 +0000
+_computerlevel[55] attribute: organization: Principal Life Insurance Company
+_computerlevel[55] attribute: profileIdentifier: 8CA0F32A-6BE5-433A-80CA-1EDC047ACE9A
+_computerlevel[55] attribute: profileUUID: 8CA0F32A-6BE5-433A-80CA-1EDC047ACE9A
+_computerlevel[55] attribute: profileType: Configuration
+_computerlevel[55] attribute: removalDisallowed: TRUE
+_computerlevel[55] attribute: version: 1
+_computerlevel[55] attribute: containsComputerItems: TRUE
+_computerlevel[55] attribute: installedByMDM: TRUE
+_computerlevel[55] attribute: internaldata: TRUE
+_computerlevel[55] payload count = 1
+_computerlevel[55]            payload[1] name			= PFGIssuingCA5
+_computerlevel[55]            payload[1] description		= 
+_computerlevel[55]            payload[1] type			= com.apple.security.pkcs1
+_computerlevel[55]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[55]            payload[1] identifier		= 7205A299-3CF9-4F9F-A2A0-4CE93A65FD80
+_computerlevel[55]            payload[1] uuid			= 7205A299-3CF9-4F9F-A2A0-4CE93A65FD80
+_computerlevel[56] attribute: name: Terminal - Full Disk Access
+_computerlevel[56] attribute: configurationDescription: 
+_computerlevel[56] attribute: installationDate: 2023-02-07 19:23:00 +0000
+_computerlevel[56] attribute: organization: Principal Life Insurance Company
+_computerlevel[56] attribute: profileIdentifier: DB8494CC-8DC5-4F8B-B93E-0BCA2FC257E3
+_computerlevel[56] attribute: profileUUID: DB8494CC-8DC5-4F8B-B93E-0BCA2FC257E3
+_computerlevel[56] attribute: profileType: Configuration
+_computerlevel[56] attribute: removalDisallowed: TRUE
+_computerlevel[56] attribute: version: 1
+_computerlevel[56] attribute: containsComputerItems: TRUE
+_computerlevel[56] attribute: installedByMDM: TRUE
+_computerlevel[56] attribute: internaldata: TRUE
+_computerlevel[56] payload count = 1
+_computerlevel[56]            payload[1] name			= Privacy Preferences Policy Control
+_computerlevel[56]            payload[1] description		= 
+_computerlevel[56]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[56]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[56]            payload[1] identifier		= C523FE81-2FEF-4552-8BFF-42AC1F3A59A9
+_computerlevel[56]            payload[1] uuid			= C523FE81-2FEF-4552-8BFF-42AC1F3A59A9
+_computerlevel[57] attribute: name: CrowdStrike Falcon - Managed Login Item
+_computerlevel[57] attribute: configurationDescription: 
+_computerlevel[57] attribute: installationDate: 2023-11-10 20:03:26 +0000
+_computerlevel[57] attribute: organization: Principal Life Insurance Company
+_computerlevel[57] attribute: profileIdentifier: 996DBBA9-F8EF-4A40-995E-78D66D9F60FF
+_computerlevel[57] attribute: profileUUID: 996DBBA9-F8EF-4A40-995E-78D66D9F60FF
+_computerlevel[57] attribute: profileType: Configuration
+_computerlevel[57] attribute: removalDisallowed: TRUE
+_computerlevel[57] attribute: version: 1
+_computerlevel[57] attribute: containsComputerItems: TRUE
+_computerlevel[57] attribute: installedByMDM: TRUE
+_computerlevel[57] attribute: internaldata: TRUE
+_computerlevel[57] payload count = 1
+_computerlevel[57]            payload[1] name			= Managed Login Items
+_computerlevel[57]            payload[1] description		= (null)
+_computerlevel[57]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[57]            payload[1] organization		= JAMF Software
+_computerlevel[57]            payload[1] identifier		= D4D99594-D2A1-40AD-8D81-8B80F24058A9
+_computerlevel[57]            payload[1] uuid			= D4D99594-D2A1-40AD-8D81-8B80F24058A9
+_computerlevel[58] attribute: name: Jamf Connect - License File
+_computerlevel[58] attribute: configurationDescription: 
+_computerlevel[58] attribute: installationDate: 2024-06-05 15:13:17 +0000
+_computerlevel[58] attribute: organization: Principal Life Insurance Company
+_computerlevel[58] attribute: profileIdentifier: 9F5AE6A4-BE5E-4944-BC02-B9A3B5F1F397
+_computerlevel[58] attribute: profileUUID: 9F5AE6A4-BE5E-4944-BC02-B9A3B5F1F397
+_computerlevel[58] attribute: profileType: Configuration
+_computerlevel[58] attribute: removalDisallowed: TRUE
+_computerlevel[58] attribute: version: 1
+_computerlevel[58] attribute: containsComputerItems: TRUE
+_computerlevel[58] attribute: installedByMDM: TRUE
+_computerlevel[58] attribute: internaldata: TRUE
+_computerlevel[58] payload count = 1
+_computerlevel[58]            payload[1] name			= Custom Settings
+_computerlevel[58]            payload[1] description		= (null)
+_computerlevel[58]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[58]            payload[1] organization		= JAMF Software
+_computerlevel[58]            payload[1] identifier		= 4D293883-9467-43EC-890A-A06A13B8E542
+_computerlevel[58]            payload[1] uuid			= 4D293883-9467-43EC-890A-A06A13B8E542
+_computerlevel[59] attribute: name: Microsoft Teams - Settings
+_computerlevel[59] attribute: configurationDescription: 
+_computerlevel[59] attribute: installationDate: 2024-12-06 15:02:26 +0000
+_computerlevel[59] attribute: organization: Principal Life Insurance Company
+_computerlevel[59] attribute: profileIdentifier: D8DE1F32-0785-43EA-926F-DC55EB1B6EDA
+_computerlevel[59] attribute: profileUUID: D8DE1F32-0785-43EA-926F-DC55EB1B6EDA
+_computerlevel[59] attribute: profileType: Configuration
+_computerlevel[59] attribute: removalDisallowed: TRUE
+_computerlevel[59] attribute: version: 1
+_computerlevel[59] attribute: containsComputerItems: TRUE
+_computerlevel[59] attribute: installedByMDM: TRUE
+_computerlevel[59] attribute: internaldata: TRUE
+_computerlevel[59] payload count = 1
+_computerlevel[59]            payload[1] name			= Custom Settings
+_computerlevel[59]            payload[1] description		= (null)
+_computerlevel[59]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[59]            payload[1] organization		= JAMF Software
+_computerlevel[59]            payload[1] identifier		= ABC17B73-0D54-4EE0-BE2A-453C728A92D4
+_computerlevel[59]            payload[1] uuid			= ABC17B73-0D54-4EE0-BE2A-453C728A92D4
+_computerlevel[60] attribute: name: Proofpoint DLP - Managed Login Items
+_computerlevel[60] attribute: configurationDescription: 
+_computerlevel[60] attribute: installationDate: 2023-10-31 16:51:09 +0000
+_computerlevel[60] attribute: organization: Principal Life Insurance Company
+_computerlevel[60] attribute: profileIdentifier: E445AE21-BE4E-4920-8553-8A3C8E9357D2
+_computerlevel[60] attribute: profileUUID: E445AE21-BE4E-4920-8553-8A3C8E9357D2
+_computerlevel[60] attribute: profileType: Configuration
+_computerlevel[60] attribute: removalDisallowed: TRUE
+_computerlevel[60] attribute: version: 1
+_computerlevel[60] attribute: containsComputerItems: TRUE
+_computerlevel[60] attribute: installedByMDM: TRUE
+_computerlevel[60] attribute: internaldata: TRUE
+_computerlevel[60] payload count = 1
+_computerlevel[60]            payload[1] name			= Managed Login Items
+_computerlevel[60]            payload[1] description		= (null)
+_computerlevel[60]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[60]            payload[1] organization		= JAMF Software
+_computerlevel[60]            payload[1] identifier		= D1824A0B-9D84-41A2-AC9F-195D877705C9
+_computerlevel[60]            payload[1] uuid			= D1824A0B-9D84-41A2-AC9F-195D877705C9
+_computerlevel[61] attribute: name: App Installers - PPPC and Managed Login Items
+_computerlevel[61] attribute: configurationDescription: 
+_computerlevel[61] attribute: installationDate: 2025-03-31 15:19:39 +0000
+_computerlevel[61] attribute: organization: JAMF Software
+_computerlevel[61] attribute: profileIdentifier: com.jamf.servicemanagement.appinstallers
+_computerlevel[61] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460031
+_computerlevel[61] attribute: profileType: Configuration
+_computerlevel[61] attribute: removalDisallowed: TRUE
+_computerlevel[61] attribute: version: 1
+_computerlevel[61] attribute: containsComputerItems: TRUE
+_computerlevel[61] attribute: installedByMDM: TRUE
+_computerlevel[61] attribute: internaldata: TRUE
+_computerlevel[61] payload count = 2
+_computerlevel[61]            payload[1] name			= App Installers - PPPC
+_computerlevel[61]            payload[1] description		= 
+_computerlevel[61]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[61]            payload[1] organization		= Jamf
+_computerlevel[61]            payload[1] identifier		= com.jamf.appinstallers.pppc
+_computerlevel[61]            payload[1] uuid			= B570F0D4-082A-4BE0-A4FF-F59F46CF5773
+_computerlevel[61]            payload[2] name			= App Installers - Managed Login Items
+_computerlevel[61]            payload[2] description		= Allows for Jamf to register a launch daemons and launch agents
+_computerlevel[61]            payload[2] type			= com.apple.servicemanagement
+_computerlevel[61]            payload[2] organization		= Jamf
+_computerlevel[61]            payload[2] identifier		= com.jamf.appinstallers.servicemanagement
+_computerlevel[61]            payload[2] uuid			= 8C2FA619-3ABC-456B-ABA7-09C98180F438
+_computerlevel[62] attribute: name: Encore Auto-Update - Managed Login Items
+_computerlevel[62] attribute: configurationDescription: 
+_computerlevel[62] attribute: installationDate: 2023-02-15 15:03:16 +0000
+_computerlevel[62] attribute: organization: Principal Life Insurance Company
+_computerlevel[62] attribute: profileIdentifier: 9B3D165D-8387-4606-9629-0B9918819912
+_computerlevel[62] attribute: profileUUID: 9B3D165D-8387-4606-9629-0B9918819912
+_computerlevel[62] attribute: profileType: Configuration
+_computerlevel[62] attribute: removalDisallowed: TRUE
+_computerlevel[62] attribute: version: 1
+_computerlevel[62] attribute: containsComputerItems: TRUE
+_computerlevel[62] attribute: installedByMDM: TRUE
+_computerlevel[62] attribute: internaldata: TRUE
+_computerlevel[62] payload count = 1
+_computerlevel[62]            payload[1] name			= Managed Login Items
+_computerlevel[62]            payload[1] description		= (null)
+_computerlevel[62]            payload[1] type			= com.apple.servicemanagement
+_computerlevel[62]            payload[1] organization		= JAMF Software
+_computerlevel[62]            payload[1] identifier		= com.apple.servicemanagement.3D669A23-564B-4D6B-BF8D-68AC1538E8DC
+_computerlevel[62]            payload[1] uuid			= 4768A88E-7F46-4EED-A9B5-2F1EF6F52F11
+_computerlevel[63] attribute: name: LoginWindow Settings
+_computerlevel[63] attribute: configurationDescription: Login Window Settings for CIS Compliance
+_computerlevel[63] attribute: installationDate: 2023-02-07 19:23:41 +0000
+_computerlevel[63] attribute: organization: Principal Life Insurance Company
+_computerlevel[63] attribute: profileIdentifier: 0F3DC1E3-DA0F-4461-981D-9FE3E4513C7F
+_computerlevel[63] attribute: profileUUID: 0F3DC1E3-DA0F-4461-981D-9FE3E4513C7F
+_computerlevel[63] attribute: profileType: Configuration
+_computerlevel[63] attribute: removalDisallowed: TRUE
+_computerlevel[63] attribute: version: 1
+_computerlevel[63] attribute: containsComputerItems: TRUE
+_computerlevel[63] attribute: installedByMDM: TRUE
+_computerlevel[63] attribute: internaldata: TRUE
+_computerlevel[63] payload count = 6
+_computerlevel[63]            payload[1] name			= Login Window: Setup Assistant
+_computerlevel[63]            payload[1] description		= 
+_computerlevel[63]            payload[1] type			= com.apple.SetupAssistant.managed
+_computerlevel[63]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[63]            payload[1] identifier		= D736A5AA-20A8-4DA5-A7E3-92B4E4EF4CE8
+_computerlevel[63]            payload[1] uuid			= D736A5AA-20A8-4DA5-A7E3-92B4E4EF4CE8
+_computerlevel[63]            payload[2] name			= Login Window:  Global Preferences
+_computerlevel[63]            payload[2] description		= 
+_computerlevel[63]            payload[2] type			= .GlobalPreferences
+_computerlevel[63]            payload[2] organization		= Principal Life Insurance Company
+_computerlevel[63]            payload[2] identifier		= C3A55C0A-7264-4473-8612-CF28AB203D57
+_computerlevel[63]            payload[2] uuid			= C3A55C0A-7264-4473-8612-CF28AB203D57
+_computerlevel[63]            payload[3] name			= Login Window:  Screen Saver Preferences
+_computerlevel[63]            payload[3] description		= 
+_computerlevel[63]            payload[3] type			= com.apple.screensaver
+_computerlevel[63]            payload[3] organization		= Principal Life Insurance Company
+_computerlevel[63]            payload[3] identifier		= 8F7CBF17-BD34-4E05-B503-DBB1BD2CD7D3
+_computerlevel[63]            payload[3] uuid			= 8F7CBF17-BD34-4E05-B503-DBB1BD2CD7D3
+_computerlevel[63]            payload[4] name			= Login Window
+_computerlevel[63]            payload[4] description		= 
+_computerlevel[63]            payload[4] type			= com.apple.loginwindow
+_computerlevel[63]            payload[4] organization		= Principal Life Insurance Company
+_computerlevel[63]            payload[4] identifier		= DC4B39BF-377E-4D88-BE7F-E59AA081689C
+_computerlevel[63]            payload[4] uuid			= DC4B39BF-377E-4D88-BE7F-E59AA081689C
+_computerlevel[63]            payload[5] name			= MCX
+_computerlevel[63]            payload[5] description		= 
+_computerlevel[63]            payload[5] type			= com.apple.MCX
+_computerlevel[63]            payload[5] organization		= Principal Life Insurance Company
+_computerlevel[63]            payload[5] identifier		= 3CDC0C43-9034-440C-8D6A-DD2678DB01BE
+_computerlevel[63]            payload[5] uuid			= 3CDC0C43-9034-440C-8D6A-DD2678DB01BE
+_computerlevel[63]            payload[6] name			= Login Window:  Scripts
+_computerlevel[63]            payload[6] description		= 
+_computerlevel[63]            payload[6] type			= com.apple.mcxloginscripts
+_computerlevel[63]            payload[6] organization		= Principal Life Insurance Company
+_computerlevel[63]            payload[6] identifier		= BAEEE9D9-A648-48D6-8EB0-DE8EBEB84DE9
+_computerlevel[63]            payload[6] uuid			= BAEEE9D9-A648-48D6-8EB0-DE8EBEB84DE9
+_computerlevel[64] attribute: name: PFGIssuingCA6
+_computerlevel[64] attribute: configurationDescription: 
+_computerlevel[64] attribute: installationDate: 2023-10-31 16:50:50 +0000
+_computerlevel[64] attribute: organization: Principal Life Insurance Company
+_computerlevel[64] attribute: profileIdentifier: FEACC371-FBF4-423F-BE13-D0270D9A456A
+_computerlevel[64] attribute: profileUUID: FEACC371-FBF4-423F-BE13-D0270D9A456A
+_computerlevel[64] attribute: profileType: Configuration
+_computerlevel[64] attribute: removalDisallowed: TRUE
+_computerlevel[64] attribute: version: 1
+_computerlevel[64] attribute: containsComputerItems: TRUE
+_computerlevel[64] attribute: installedByMDM: TRUE
+_computerlevel[64] attribute: internaldata: TRUE
+_computerlevel[64] payload count = 1
+_computerlevel[64]            payload[1] name			= PFGIssuingCA6
+_computerlevel[64]            payload[1] description		= 
+_computerlevel[64]            payload[1] type			= com.apple.security.pkcs1
+_computerlevel[64]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[64]            payload[1] identifier		= EE6638B3-BE52-4B12-95D3-BBE158091D9B
+_computerlevel[64]            payload[1] uuid			= EE6638B3-BE52-4B12-95D3-BBE158091D9B
+_computerlevel[65] attribute: name: Time Machine Settings
+_computerlevel[65] attribute: configurationDescription: Prevent Time Machine from prompting for new disks
+_computerlevel[65] attribute: installationDate: 2023-02-07 19:23:50 +0000
+_computerlevel[65] attribute: organization: Principal Life Insurance Company
+_computerlevel[65] attribute: profileIdentifier: 1B978CB4-A26F-4509-A8E8-A8921EC20497
+_computerlevel[65] attribute: profileUUID: 1B978CB4-A26F-4509-A8E8-A8921EC20497
+_computerlevel[65] attribute: profileType: Configuration
+_computerlevel[65] attribute: removalDisallowed: TRUE
+_computerlevel[65] attribute: version: 1
+_computerlevel[65] attribute: containsComputerItems: TRUE
+_computerlevel[65] attribute: installedByMDM: TRUE
+_computerlevel[65] attribute: internaldata: TRUE
+_computerlevel[65] payload count = 1
+_computerlevel[65]            payload[1] name			= Custom Settings
+_computerlevel[65]            payload[1] description		= (null)
+_computerlevel[65]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[65]            payload[1] organization		= Principal Life Insurance Company
+_computerlevel[65]            payload[1] identifier		= 444E49D2-BB87-4387-9BA3-935CE0D2CA5F
+_computerlevel[65]            payload[1] uuid			= 444E49D2-BB87-4387-9BA3-935CE0D2CA5F
+There are 65 system configuration profiles installed
+c102239@LMR7X6RVHGD6 ~ % 
